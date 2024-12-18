@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+# 과일 패키징 자동화 시스템
 
-![License](https://img.shields.io/github/license/username/repository)
-![Build Status](https://img.shields.io/github/actions/workflow/status/username/repository/ci.yml)
-![Stars](https://img.shields.io/github/stars/username/repository)
+## QR 코드 와 광각카메라를 활용한 Line 인식으로 목적지까지 주행할 수 있다
+## SLAM을 활용하여 자율주행을 할 수 있다 
