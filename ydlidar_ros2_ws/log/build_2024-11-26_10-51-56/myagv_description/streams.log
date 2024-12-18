@@ -1,0 +1,25 @@
+[0.157s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_description -- -j4 -l4
+[2.278s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_description -- -j4 -l4
+[2.481s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_description
+[2.525s] -- Install configuration: ""
+[2.526s] -- Execute custom install script
+[2.531s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/urdf/myAGV.urdf
+[2.533s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_all.dae
+[2.535s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_base.dae
+[2.536s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_up.dae
+[2.538s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/package_run_dependencies/myagv_description
+[2.540s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/parent_prefix_path/myagv_description
+[2.542s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.sh
+[2.544s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.dsv
+[2.546s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.sh
+[2.548s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.dsv
+[2.550s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.bash
+[2.552s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.sh
+[2.554s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.zsh
+[2.557s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.dsv
+[2.559s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.dsv
+[2.608s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/packages/myagv_description
+[2.610s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig.cmake
+[2.611s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig-version.cmake
+[2.613s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.xml
+[2.625s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_description

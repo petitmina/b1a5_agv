@@ -1,0 +1,372 @@
+[0.183s] Invoking command in '/home/pi/nav_ws/build/agv_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake /home/pi/nav_ws/src/agv_interfaces -DCMAKE_INSTALL_PREFIX=/home/pi/nav_ws/install/agv_interfaces
+[0.589s] -- The C compiler identification is GNU 9.4.0
+[0.976s] -- The CXX compiler identification is GNU 9.4.0
+[1.011s] -- Check for working C compiler: /usr/bin/cc
+[1.496s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.499s] -- Detecting C compiler ABI info
+[1.963s] -- Detecting C compiler ABI info - done
+[2.007s] -- Detecting C compile features
+[2.008s] -- Detecting C compile features - done
+[2.020s] -- Check for working CXX compiler: /usr/bin/c++
+[2.553s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.561s] -- Detecting CXX compiler ABI info
+[3.082s] -- Detecting CXX compiler ABI info - done
+[3.195s] -- Detecting CXX compile features
+[3.198s] -- Detecting CXX compile features - done
+[3.233s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[3.463s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.464s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.149s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[5.179s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.243s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[6.203s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[6.505s] -- Found FastRTPS: /opt/ros/foxy/include  
+[7.239s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.507s] -- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+[8.286s] -- Found ament_cmake_ros: 0.9.2 (/opt/ros/foxy/share/ament_cmake_ros/cmake)
+[9.237s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[9.283s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[9.390s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[9.409s] -- Found python_cmake_module: 0.8.1 (/opt/ros/foxy/share/python_cmake_module/cmake)
+[9.544s] -- Found PythonLibs: /usr/lib/aarch64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[9.545s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[9.546s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[9.548s] -- Using PYTHON_LIBRARIES: /usr/lib/aarch64-linux-gnu/libpython3.8.so
+[9.643s] -- Found PythonExtra: .so  
+[9.832s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[10.028s] -- Added test 'copyright' to check source files copyright and LICENSE
+[10.040s] -- Added test 'lint_cmake' to check CMake code style
+[10.046s] -- Added test 'xmllint' to check XML markup files
+[10.104s] -- Configuring done
+[10.285s] -- Generating done
+[10.297s] -- Build files have been written to: /home/pi/nav_ws/build/agv_interfaces
+[10.332s] Invoked command in '/home/pi/nav_ws/build/agv_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake /home/pi/nav_ws/src/agv_interfaces -DCMAKE_INSTALL_PREFIX=/home/pi/nav_ws/install/agv_interfaces
+[10.342s] Invoking command in '/home/pi/nav_ws/build/agv_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_interfaces -- -j4 -l4
+[10.510s] [35m[1mScanning dependencies of target agv_interfaces__cpp[0m
+[10.515s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[10.557s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[13.565s] [  2%] Built target agv_interfaces__cpp
+[13.651s] [  4%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[13.702s] [  5%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[13.822s] [  7%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[13.996s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_generator_c[0m
+[14.207s] [  8%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_generator_c.dir/rosidl_generator_c/agv_interfaces/srv/detail/battery__functions.c.o[0m
+[14.711s] [  9%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_generator_c.dir/rosidl_generator_c/agv_interfaces/srv/detail/calg__functions.c.o[0m
+[15.185s] [ 11%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_generator_c.dir/rosidl_generator_c/agv_interfaces/srv/detail/color__functions.c.o[0m
+[15.644s] [ 12%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_generator_c.dir/rosidl_generator_c/agv_interfaces/srv/detail/onoff__functions.c.o[0m
+[16.104s] [ 14%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_generator_c.dir/rosidl_generator_c/agv_interfaces/srv/detail/reset_odom__functions.c.o[0m
+[16.213s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_typesupport_cpp[0m
+[16.353s] [ 15%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/agv_interfaces/srv/battery__type_support.cpp.o[0m
+[16.677s] [ 16%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_generator_c.dir/rosidl_generator_c/agv_interfaces/srv/detail/save_color__functions.c.o[0m
+[17.289s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_typesupport_introspection_cpp[0m
+[17.292s] [ 18%] [32m[1mLinking C shared library libagv_interfaces__rosidl_generator_c.so[0m
+[17.419s] [ 19%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/agv_interfaces/srv/detail/battery__type_support.cpp.o[0m
+[17.565s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[17.633s] [ 19%] Built target agv_interfaces__rosidl_generator_c
+[17.743s] [ 21%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/agv_interfaces/srv/detail/calg__type_support.cpp.o[0m
+[17.847s] [ 22%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/agv_interfaces/srv/detail/dds_fastrtps/battery__type_support.cpp.o[0m
+[18.627s] [ 23%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/agv_interfaces/srv/calg__type_support.cpp.o[0m
+[19.812s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[19.938s] [ 26%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/agv_interfaces/srv/detail/color__type_support.cpp.o[0m
+[21.767s] [ 28%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/agv_interfaces/srv/color__type_support.cpp.o[0m
+[22.223s] [ 29%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/agv_interfaces/srv/detail/dds_fastrtps/calg__type_support.cpp.o[0m
+[22.747s] [ 30%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/agv_interfaces/srv/detail/onoff__type_support.cpp.o[0m
+[24.793s] [ 32%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/agv_interfaces/srv/onoff__type_support.cpp.o[0m
+[25.190s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_typesupport_introspection_c[0m
+[25.192s] [ 33%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/agv_interfaces/srv/detail/reset_odom__type_support.cpp.o[0m
+[25.416s] [ 35%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/agv_interfaces/srv/detail/battery__type_support.c.o[0m
+[25.881s] [ 36%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/agv_interfaces/srv/detail/calg__type_support.c.o[0m
+[26.249s] [ 38%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/agv_interfaces/srv/detail/dds_fastrtps/color__type_support.cpp.o[0m
+[26.338s] [ 39%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/agv_interfaces/srv/detail/color__type_support.c.o[0m
+[26.820s] [ 40%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/agv_interfaces/srv/detail/onoff__type_support.c.o[0m
+[27.334s] [ 42%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/agv_interfaces/srv/detail/reset_odom__type_support.c.o[0m
+[27.344s] [ 43%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/agv_interfaces/srv/reset_odom__type_support.cpp.o[0m
+[27.633s] [ 45%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/agv_interfaces/srv/detail/save_color__type_support.cpp.o[0m
+[27.783s] [ 46%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/agv_interfaces/srv/detail/save_color__type_support.c.o[0m
+[28.244s] [ 47%] [32m[1mLinking C shared library libagv_interfaces__rosidl_typesupport_introspection_c.so[0m
+[28.656s] [ 47%] Built target agv_interfaces__rosidl_typesupport_introspection_c
+[28.784s] [ 49%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/agv_interfaces/srv/save_color__type_support.cpp.o[0m
+[29.929s] [ 50%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/agv_interfaces/srv/detail/dds_fastrtps/onoff__type_support.cpp.o[0m
+[30.211s] [ 52%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/agv_interfaces/srv/detail/dds_fastrtps/reset_odom__type_support.cpp.o[0m
+[30.805s] [ 53%] [32m[1mLinking CXX shared library libagv_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[31.341s] [ 53%] Built target agv_interfaces__rosidl_typesupport_introspection_cpp
+[31.353s] [ 54%] [32m[1mLinking CXX shared library libagv_interfaces__rosidl_typesupport_cpp.so[0m
+[31.496s] [ 56%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[31.917s] [ 56%] Built target agv_interfaces__rosidl_typesupport_cpp
+[32.075s] [ 57%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/agv_interfaces/srv/detail/dds_fastrtps/save_color__type_support.cpp.o[0m
+[34.703s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_typesupport_c[0m
+[34.921s] [ 59%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/agv_interfaces/srv/battery__type_support.cpp.o[0m
+[34.930s] [ 61%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/agv_interfaces/srv/color__type_support.cpp.o[0m
+[34.934s] [ 61%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/agv_interfaces/srv/calg__type_support.cpp.o[0m
+[35.397s] [ 63%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/agv_interfaces/srv/onoff__type_support.cpp.o[0m
+[35.413s] [ 64%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/agv_interfaces/srv/reset_odom__type_support.cpp.o[0m
+[35.432s] [ 66%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/agv_interfaces/srv/save_color__type_support.cpp.o[0m
+[35.783s] [ 67%] [32m[1mLinking CXX shared library libagv_interfaces__rosidl_typesupport_c.so[0m
+[35.802s] [ 69%] [32m[1mLinking CXX shared library libagv_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[36.026s] [ 69%] Built target agv_interfaces__rosidl_typesupport_c
+[36.287s] [ 69%] Built target agv_interfaces__rosidl_typesupport_fastrtps_cpp
+[36.334s] [ 70%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[39.144s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_typesupport_fastrtps_c[0m
+[39.377s] [ 71%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/agv_interfaces/srv/detail/calg__type_support_c.cpp.o[0m
+[39.388s] [ 73%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/agv_interfaces/srv/detail/battery__type_support_c.cpp.o[0m
+[39.394s] [ 74%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/agv_interfaces/srv/detail/color__type_support_c.cpp.o[0m
+[39.408s] [ 76%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/agv_interfaces/srv/detail/onoff__type_support_c.cpp.o[0m
+[43.292s] [ 77%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/agv_interfaces/srv/detail/save_color__type_support_c.cpp.o[0m
+[45.664s] [ 78%] [32mBuilding CXX object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/agv_interfaces/srv/detail/reset_odom__type_support_c.cpp.o[0m
+[47.419s] [ 80%] [32m[1mLinking CXX shared library libagv_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[47.793s] [ 80%] Built target agv_interfaces__rosidl_typesupport_fastrtps_c
+[47.835s] [35m[1mScanning dependencies of target agv_interfaces[0m
+[47.879s] [ 80%] Built target agv_interfaces
+[47.921s] [35m[1mScanning dependencies of target agv_interfaces__py[0m
+[47.967s] [ 81%] [34m[1mGenerating Python code for ROS interfaces[0m
+[53.097s] [ 81%] Built target agv_interfaces__py
+[53.142s] [35m[1mScanning dependencies of target agv_interfaces__python[0m
+[53.274s] [ 83%] [32mBuilding C object CMakeFiles/agv_interfaces__python.dir/rosidl_generator_py/agv_interfaces/srv/_battery_s.c.o[0m
+[53.659s] [ 84%] [32mBuilding C object CMakeFiles/agv_interfaces__python.dir/rosidl_generator_py/agv_interfaces/srv/_onoff_s.c.o[0m
+[54.040s] [ 85%] [32mBuilding C object CMakeFiles/agv_interfaces__python.dir/rosidl_generator_py/agv_interfaces/srv/_reset_odom_s.c.o[0m
+[54.432s] [ 87%] [32mBuilding C object CMakeFiles/agv_interfaces__python.dir/rosidl_generator_py/agv_interfaces/srv/_save_color_s.c.o[0m
+[54.819s] [ 88%] [32mBuilding C object CMakeFiles/agv_interfaces__python.dir/rosidl_generator_py/agv_interfaces/srv/_color_s.c.o[0m
+[55.201s] [ 90%] [32mBuilding C object CMakeFiles/agv_interfaces__python.dir/rosidl_generator_py/agv_interfaces/srv/_calg_s.c.o[0m
+[55.576s] [ 91%] [32m[1mLinking C shared library rosidl_generator_py/agv_interfaces/libagv_interfaces__python.so[0m
+[55.751s] [ 91%] Built target agv_interfaces__python
+[55.793s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[55.793s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_typesupport_c__pyext[0m
+[55.885s] [ 92%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/agv_interfaces/_agv_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[55.903s] [ 94%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/agv_interfaces/_agv_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[56.403s] [ 95%] [32m[1mLinking C shared library rosidl_generator_py/agv_interfaces/agv_interfaces_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so[0m
+[56.451s] [ 97%] [32m[1mLinking CXX shared library rosidl_generator_py/agv_interfaces/agv_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so[0m
+[56.568s] [ 97%] Built target agv_interfaces__rosidl_typesupport_c__pyext
+[56.618s] [35m[1mScanning dependencies of target agv_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[56.712s] [ 98%] [32mBuilding C object CMakeFiles/agv_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/agv_interfaces/_agv_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[56.747s] [ 98%] Built target agv_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[57.204s] [100%] [32m[1mLinking C shared library rosidl_generator_py/agv_interfaces/agv_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so[0m
+[57.391s] [100%] Built target agv_interfaces__rosidl_typesupport_introspection_c__pyext
+[57.447s] Invoked command in '/home/pi/nav_ws/build/agv_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_interfaces -- -j4 -l4
+[58.317s] Invoking command in '/home/pi/nav_ws/build/agv_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_interfaces
+[58.353s] -- Install configuration: ""
+[58.354s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/ament_index/resource_index/rosidl_interfaces/agv_interfaces
+[58.355s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces
+[58.355s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg
+[58.356s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg/rosidl_generator_c__visibility_control.h
+[58.357s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv
+[58.357s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/color.h
+[58.358s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/onoff.h
+[58.359s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail
+[58.360s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__struct.h
+[58.361s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__struct.h
+[58.362s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__functions.h
+[58.363s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__functions.c
+[58.364s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__type_support.h
+[58.364s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__type_support.h
+[58.365s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__functions.h
+[58.366s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__functions.c
+[58.367s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__functions.h
+[58.368s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__type_support.h
+[58.368s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__functions.c
+[58.369s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__functions.h
+[58.370s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__functions.c
+[58.371s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__functions.h
+[58.372s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__type_support.h
+[58.373s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__type_support.h
+[58.373s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__type_support.h
+[58.374s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__struct.h
+[58.375s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__functions.h
+[58.376s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__struct.h
+[58.377s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__functions.c
+[58.378s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__functions.c
+[58.379s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__struct.h
+[58.379s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__struct.h
+[58.380s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/reset_odom.h
+[58.381s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/battery.h
+[58.381s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/calg.h
+[58.382s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/save_color.h
+[58.383s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/environment/library_path.sh
+[58.384s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/environment/library_path.dsv
+[58.386s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_generator_c.so
+[58.388s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_generator_c.so" to ""
+[58.389s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces
+[58.389s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg
+[58.390s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[58.390s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv
+[58.391s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail
+[58.391s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__rosidl_typesupport_fastrtps_c.h
+[58.392s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__rosidl_typesupport_fastrtps_c.h
+[58.393s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__rosidl_typesupport_fastrtps_c.h
+[58.393s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__rosidl_typesupport_fastrtps_c.h
+[58.394s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__rosidl_typesupport_fastrtps_c.h
+[58.395s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__rosidl_typesupport_fastrtps_c.h
+[58.397s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_fastrtps_c.so
+[58.399s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[58.400s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces
+[58.400s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg
+[58.400s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[58.401s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv
+[58.401s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail
+[58.401s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/dds_fastrtps
+[58.402s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__rosidl_typesupport_fastrtps_cpp.hpp
+[58.403s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__rosidl_typesupport_fastrtps_cpp.hpp
+[58.404s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__rosidl_typesupport_fastrtps_cpp.hpp
+[58.405s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__rosidl_typesupport_fastrtps_cpp.hpp
+[58.406s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__rosidl_typesupport_fastrtps_cpp.hpp
+[58.407s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__rosidl_typesupport_fastrtps_cpp.hpp
+[58.408s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[58.411s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[58.411s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces
+[58.412s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg
+[58.412s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[58.412s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv
+[58.413s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail
+[58.413s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__rosidl_typesupport_introspection_c.h
+[58.414s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__type_support.c
+[58.415s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__type_support.c
+[58.416s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__type_support.c
+[58.416s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__rosidl_typesupport_introspection_c.h
+[58.417s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__rosidl_typesupport_introspection_c.h
+[58.418s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__type_support.c
+[58.419s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__rosidl_typesupport_introspection_c.h
+[58.420s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__type_support.c
+[58.421s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__type_support.c
+[58.422s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__rosidl_typesupport_introspection_c.h
+[58.423s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__rosidl_typesupport_introspection_c.h
+[58.424s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_introspection_c.so
+[58.426s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[58.427s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_c.so
+[58.430s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_c.so" to ""
+[58.432s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces
+[58.433s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg
+[58.434s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[58.434s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv
+[58.434s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/color.hpp
+[58.435s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/save_color.hpp
+[58.435s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/battery.hpp
+[58.435s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail
+[58.436s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__traits.hpp
+[58.436s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__traits.hpp
+[58.436s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__type_support.hpp
+[58.437s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__builder.hpp
+[58.438s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__type_support.hpp
+[58.439s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__type_support.hpp
+[58.440s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__builder.hpp
+[58.440s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__struct.hpp
+[58.441s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__type_support.hpp
+[58.442s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__traits.hpp
+[58.443s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__type_support.hpp
+[58.444s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__traits.hpp
+[58.445s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__traits.hpp
+[58.445s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__builder.hpp
+[58.446s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__traits.hpp
+[58.447s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__struct.hpp
+[58.448s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__struct.hpp
+[58.449s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__struct.hpp
+[58.450s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__builder.hpp
+[58.451s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__struct.hpp
+[58.451s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__builder.hpp
+[58.452s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__struct.hpp
+[58.453s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__type_support.hpp
+[58.454s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__builder.hpp
+[58.455s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/reset_odom.hpp
+[58.455s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/onoff.hpp
+[58.456s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/calg.hpp
+[58.457s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces
+[58.457s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv
+[58.458s] -- Up-to-date: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail
+[58.458s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__rosidl_typesupport_introspection_cpp.hpp
+[58.459s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__type_support.cpp
+[58.460s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__type_support.cpp
+[58.462s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__rosidl_typesupport_introspection_cpp.hpp
+[58.463s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__rosidl_typesupport_introspection_cpp.hpp
+[58.464s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/save_color__type_support.cpp
+[58.464s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__rosidl_typesupport_introspection_cpp.hpp
+[58.465s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/battery__rosidl_typesupport_introspection_cpp.hpp
+[58.466s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/calg__rosidl_typesupport_introspection_cpp.hpp
+[58.467s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/onoff__type_support.cpp
+[58.468s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/reset_odom__type_support.cpp
+[58.469s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/include/agv_interfaces/srv/detail/color__type_support.cpp
+[58.471s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_introspection_cpp.so
+[58.473s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[58.474s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_cpp.so
+[58.476s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__rosidl_typesupport_cpp.so" to ""
+[58.477s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/environment/pythonpath.sh
+[58.477s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/environment/pythonpath.dsv
+[58.479s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/__init__.py
+[58.604s] Compiling '/home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/__init__.py'...
+[58.627s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv
+[58.627s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_onoff_s.c
+[58.628s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_reset_odom_s.c
+[58.629s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_calg_s.c
+[58.630s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_reset_odom.py
+[58.631s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_save_color_s.c
+[58.632s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_color.py
+[58.632s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_battery.py
+[58.633s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_color_s.c
+[58.634s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_onoff.py
+[58.635s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_battery_s.c
+[58.636s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_calg.py
+[58.637s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/_save_color.py
+[58.638s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/srv/__init__.py
+[58.640s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/agv_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so
+[58.643s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/agv_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-aarch64-linux-gnu.so" to ""
+[58.644s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/agv_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so
+[58.647s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/agv_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-aarch64-linux-gnu.so" to ""
+[58.648s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/agv_interfaces_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so
+[58.651s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/python3.8/site-packages/agv_interfaces/agv_interfaces_s__rosidl_typesupport_c.cpython-38-aarch64-linux-gnu.so" to ""
+[58.652s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__python.so
+[58.654s] -- Set runtime path of "/home/pi/nav_ws/install/agv_interfaces/lib/libagv_interfaces__python.so" to ""
+[58.655s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Battery.idl
+[58.656s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Calg.idl
+[58.656s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Color.idl
+[58.657s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Onoff.idl
+[58.658s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/ResetOdom.idl
+[58.660s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/SaveColor.idl
+[58.661s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Battery.srv
+[58.662s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Battery_Request.msg
+[58.663s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Battery_Response.msg
+[58.664s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Calg.srv
+[58.665s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Calg_Request.msg
+[58.666s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Calg_Response.msg
+[58.667s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Color.srv
+[58.668s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Color_Request.msg
+[58.669s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Color_Response.msg
+[58.670s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Onoff.srv
+[58.671s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Onoff_Request.msg
+[58.671s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/Onoff_Response.msg
+[58.672s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/ResetOdom.srv
+[58.673s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/ResetOdom_Request.msg
+[58.674s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/ResetOdom_Response.msg
+[58.675s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/SaveColor.srv
+[58.676s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/SaveColor_Request.msg
+[58.677s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/srv/SaveColor_Response.msg
+[58.678s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/ament_index/resource_index/package_run_dependencies/agv_interfaces
+[58.680s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/ament_index/resource_index/parent_prefix_path/agv_interfaces
+[58.681s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/environment/ament_prefix_path.sh
+[58.682s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/environment/ament_prefix_path.dsv
+[58.683s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/environment/path.sh
+[58.684s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/environment/path.dsv
+[58.685s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/local_setup.bash
+[58.686s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/local_setup.sh
+[58.687s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/local_setup.zsh
+[58.688s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/local_setup.dsv
+[58.689s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/package.dsv
+[58.690s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/ament_index/resource_index/packages/agv_interfaces
+[58.691s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_generator_cExport.cmake
+[58.692s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_generator_cExport-noconfig.cmake
+[58.694s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[58.695s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[58.696s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_typesupport_cExport.cmake
+[58.697s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[58.699s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_generator_cppExport.cmake
+[58.700s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[58.701s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[58.703s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_typesupport_cppExport.cmake
+[58.704s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[58.705s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/rosidl_cmake-extras.cmake
+[58.706s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[58.707s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[58.708s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[58.709s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[58.710s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[58.712s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[58.713s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfacesConfig.cmake
+[58.713s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/cmake/agv_interfacesConfig-version.cmake
+[58.714s] -- Installing: /home/pi/nav_ws/install/agv_interfaces/share/agv_interfaces/package.xml
+[58.723s] Invoked command in '/home/pi/nav_ws/build/agv_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_interfaces

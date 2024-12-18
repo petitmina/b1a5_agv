@@ -1,0 +1,25 @@
+[0.154s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_description -- -j4 -l4
+[2.167s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_description -- -j4 -l4
+[2.362s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_description
+[2.412s] -- Install configuration: ""
+[2.417s] -- Execute custom install script
+[2.429s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/urdf/myAGV.urdf
+[2.437s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_all.dae
+[2.440s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_base.dae
+[2.445s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_up.dae
+[2.450s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/package_run_dependencies/myagv_description
+[2.455s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/parent_prefix_path/myagv_description
+[2.461s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.sh
+[2.465s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.dsv
+[2.469s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.sh
+[2.471s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.dsv
+[2.474s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.bash
+[2.477s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.sh
+[2.481s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.zsh
+[2.483s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.dsv
+[2.485s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.dsv
+[2.536s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/packages/myagv_description
+[2.539s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig.cmake
+[2.546s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig-version.cmake
+[2.557s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.xml
+[2.574s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_description

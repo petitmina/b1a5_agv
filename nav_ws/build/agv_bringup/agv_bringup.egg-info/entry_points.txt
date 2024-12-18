@@ -1,0 +1,4 @@
+[console_scripts]
+agv_mcu_node = agv_bringup.scripts.agv_mcu_node:main
+agv_motor_setting_node = agv_bringup.scripts.agv_motor_setting_node:main
+

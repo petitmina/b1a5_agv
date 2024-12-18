@@ -1,0 +1,45 @@
+[0.117s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_bringup': AMENT_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake /home/pi/ydlidar_ros2_ws/src/myagv_bringup -DCMAKE_INSTALL_PREFIX=/home/pi/ydlidar_ros2_ws/install/myagv_bringup
+[0.461s] -- The C compiler identification is GNU 9.4.0
+[0.722s] -- The CXX compiler identification is GNU 9.4.0
+[0.747s] -- Check for working C compiler: /usr/bin/cc
+[1.064s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.067s] -- Detecting C compiler ABI info
+[1.367s] -- Detecting C compiler ABI info - done
+[1.404s] -- Detecting C compile features
+[1.405s] -- Detecting C compile features - done
+[1.414s] -- Check for working CXX compiler: /usr/bin/c++
+[1.732s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.736s] -- Detecting CXX compiler ABI info
+[2.065s] -- Detecting CXX compiler ABI info - done
+[2.101s] -- Detecting CXX compile features
+[2.103s] -- Detecting CXX compile features - done
+[2.126s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.253s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.253s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.496s] -- Configuring done
+[3.504s] -- Generating done
+[3.508s] -- Build files have been written to: /home/pi/ydlidar_ros2_ws/build/myagv_bringup
+[3.519s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_bringup' returned '0': AMENT_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake /home/pi/ydlidar_ros2_ws/src/myagv_bringup -DCMAKE_INSTALL_PREFIX=/home/pi/ydlidar_ros2_ws/install/myagv_bringup
+[3.528s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_bringup': AMENT_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_bringup -- -j4 -l4
+[3.678s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_bringup' returned '0': AMENT_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_bringup -- -j4 -l4
+[3.789s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_bringup': AMENT_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_bringup
+[3.822s] -- Install configuration: ""
+[3.823s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/launch
+[3.823s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/launch/myagv_state_publisher.launch.py
+[3.824s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/launch/myagv.launch.py
+[3.825s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/ament_index/resource_index/package_run_dependencies/myagv_bringup
+[3.827s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/ament_index/resource_index/parent_prefix_path/myagv_bringup
+[3.828s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/environment/ament_prefix_path.sh
+[3.829s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/environment/ament_prefix_path.dsv
+[3.830s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/environment/path.sh
+[3.831s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/environment/path.dsv
+[3.832s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/local_setup.bash
+[3.833s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/local_setup.sh
+[3.834s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/local_setup.zsh
+[3.835s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/local_setup.dsv
+[3.836s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/package.dsv
+[3.837s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/ament_index/resource_index/packages/myagv_bringup
+[3.838s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/cmake/myagv_bringupConfig.cmake
+[3.839s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/cmake/myagv_bringupConfig-version.cmake
+[3.840s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/package.xml
+[3.847s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_bringup' returned '0': AMENT_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/ydlidar_ros2_ws/install/myagv_description:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_bringup

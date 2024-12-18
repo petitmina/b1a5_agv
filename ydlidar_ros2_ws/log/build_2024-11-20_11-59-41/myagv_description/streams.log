@@ -1,0 +1,37 @@
+[0.210s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake /home/pi/ydlidar_ros2_ws/src/myagv_description -DCMAKE_INSTALL_PREFIX=/home/pi/ydlidar_ros2_ws/install/myagv_description
+[2.787s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.788s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.789s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.790s] -- Found urdf: 2.4.0 (/opt/ros/foxy/share/urdf/cmake)
+[2.791s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.793s] -- Added test 'lint_cmake' to check CMake code style
+[2.794s] -- Added test 'xmllint' to check XML markup files
+[2.795s] -- Configuring done
+[2.796s] -- Generating done
+[2.800s] -- Build files have been written to: /home/pi/ydlidar_ros2_ws/build/myagv_description
+[2.807s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake /home/pi/ydlidar_ros2_ws/src/myagv_description -DCMAKE_INSTALL_PREFIX=/home/pi/ydlidar_ros2_ws/install/myagv_description
+[2.814s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_description -- -j4 -l4
+[3.015s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_description -- -j4 -l4
+[3.191s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_description
+[3.287s] -- Install configuration: ""
+[3.289s] -- Execute custom install script
+[3.293s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/urdf/myAGV.urdf
+[3.296s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_all.dae
+[3.298s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_base.dae
+[3.301s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_up.dae
+[3.305s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/package_run_dependencies/myagv_description
+[3.307s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/parent_prefix_path/myagv_description
+[3.310s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.sh
+[3.313s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.dsv
+[3.316s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.sh
+[3.317s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.dsv
+[3.320s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.bash
+[3.322s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.sh
+[3.323s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.zsh
+[3.326s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.dsv
+[3.328s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.dsv
+[3.374s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/packages/myagv_description
+[3.375s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig.cmake
+[3.376s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig-version.cmake
+[3.377s] -- Up-to-date symlink: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.xml
+[3.397s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_description

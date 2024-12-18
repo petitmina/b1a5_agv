@@ -1,0 +1,76 @@
+[0.000000] (-) TimerEvent: {}
+[0.000887] (agv) JobQueued: {'identifier': 'agv', 'dependencies': OrderedDict()}
+[0.001737] (agv) JobStarted: {'identifier': 'agv'}
+[0.099257] (-) TimerEvent: {}
+[0.200191] (-) TimerEvent: {}
+[0.301196] (-) TimerEvent: {}
+[0.401829] (-) TimerEvent: {}
+[0.502394] (-) TimerEvent: {}
+[0.603008] (-) TimerEvent: {}
+[0.703613] (-) TimerEvent: {}
+[0.804326] (-) TimerEvent: {}
+[0.904944] (-) TimerEvent: {}
+[1.005659] (-) TimerEvent: {}
+[1.106852] (-) TimerEvent: {}
+[1.207592] (-) TimerEvent: {}
+[1.308340] (-) TimerEvent: {}
+[1.408944] (-) TimerEvent: {}
+[1.509551] (-) TimerEvent: {}
+[1.610195] (-) TimerEvent: {}
+[1.710816] (-) TimerEvent: {}
+[1.811525] (-) TimerEvent: {}
+[1.912320] (-) TimerEvent: {}
+[2.013365] (-) TimerEvent: {}
+[2.114311] (-) TimerEvent: {}
+[2.215329] (-) TimerEvent: {}
+[2.315942] (-) TimerEvent: {}
+[2.416767] (-) TimerEvent: {}
+[2.517576] (-) TimerEvent: {}
+[2.618356] (-) TimerEvent: {}
+[2.719044] (-) TimerEvent: {}
+[2.819702] (-) TimerEvent: {}
+[2.920515] (-) TimerEvent: {}
+[3.021410] (-) TimerEvent: {}
+[3.102759] (agv) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/agv', 'build', '--build-base', '/home/pi/finalagv_ros2_ws/build/agv/build', 'install', '--record', '/home/pi/finalagv_ros2_ws/build/agv/install.log', '--install-scripts', '$base/lib/agv', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/pi/finalagv_ros2_ws/src/agv', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'pi', 'SSH_CLIENT': '172.30.1.6 34210 22', 'LC_TIME': 'ko_KR.UTF-8', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/pi', 'OLDPWD': '/home/pi', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'LC_MONETARY': 'ko_KR.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'pi', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'LC_ADDRESS': 'ko_KR.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': 'localhost:10.0', 'LANG': 'en_US.UTF-8', 'LC_TELEPHONE': 'ko_KR.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'ROS_DOMAIN_ID': '57', 'AMENT_PREFIX_PATH': '/opt/ros/foxy', 'SHELL': '/bin/bash', 'LC_NAME': 'ko_KR.UTF-8', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'ko_KR.UTF-8', 'LC_IDENTIFICATION': 'ko_KR.UTF-8', 'PWD': '/home/pi/finalagv_ros2_ws/build/agv', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '172.30.1.6 34210 172.30.1.33 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/pi/finalagv_ros2_ws/build/agv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'LC_NUMERIC': 'ko_KR.UTF-8', 'LC_PAPER': 'ko_KR.UTF-8', 'COLCON': '1'}, 'shell': False}
+[3.121737] (-) TimerEvent: {}
+[3.225329] (-) TimerEvent: {}
+[3.326012] (-) TimerEvent: {}
+[3.426685] (-) TimerEvent: {}
+[3.527325] (-) TimerEvent: {}
+[3.627992] (-) TimerEvent: {}
+[3.728580] (-) TimerEvent: {}
+[3.829228] (-) TimerEvent: {}
+[3.929864] (-) TimerEvent: {}
+[3.968550] (agv) StdoutLine: {'line': b'running egg_info\n'}
+[3.970633] (agv) StdoutLine: {'line': b'writing ../../build/agv/agv.egg-info/PKG-INFO\n'}
+[3.973315] (agv) StdoutLine: {'line': b'writing dependency_links to ../../build/agv/agv.egg-info/dependency_links.txt\n'}
+[3.974205] (agv) StdoutLine: {'line': b'writing entry points to ../../build/agv/agv.egg-info/entry_points.txt\n'}
+[3.974949] (agv) StdoutLine: {'line': b'writing requirements to ../../build/agv/agv.egg-info/requires.txt\n'}
+[3.975507] (agv) StdoutLine: {'line': b'writing top-level names to ../../build/agv/agv.egg-info/top_level.txt\n'}
+[4.029991] (-) TimerEvent: {}
+[4.107518] (agv) StdoutLine: {'line': b"reading manifest file '../../build/agv/agv.egg-info/SOURCES.txt'\n"}
+[4.111686] (agv) StdoutLine: {'line': b"writing manifest file '../../build/agv/agv.egg-info/SOURCES.txt'\n"}
+[4.112577] (agv) StdoutLine: {'line': b'running build\n'}
+[4.113261] (agv) StdoutLine: {'line': b'running build_py\n'}
+[4.117606] (agv) StdoutLine: {'line': b'running install\n'}
+[4.120531] (agv) StdoutLine: {'line': b'running install_lib\n'}
+[4.129970] (agv) StdoutLine: {'line': b'running install_data\n'}
+[4.130572] (-) TimerEvent: {}
+[4.135542] (agv) StdoutLine: {'line': b'running install_egg_info\n'}
+[4.142936] (agv) StdoutLine: {'line': b"removing '/home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[4.145249] (agv) StdoutLine: {'line': b'Copying ../../build/agv/agv.egg-info to /home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv-0.0.0-py3.8.egg-info\n'}
+[4.150348] (agv) StdoutLine: {'line': b'running install_scripts\n'}
+[4.210327] (agv) StdoutLine: {'line': b'Installing pub script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[4.211627] (agv) StdoutLine: {'line': b'Installing pub2 script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[4.212418] (agv) StdoutLine: {'line': b'Installing pub4 script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[4.213203] (agv) StdoutLine: {'line': b'Installing return script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[4.213947] (agv) StdoutLine: {'line': b'Installing sub script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[4.214693] (agv) StdoutLine: {'line': b'Installing sub2 script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[4.215412] (agv) StdoutLine: {'line': b'Installing tel script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[4.216164] (agv) StdoutLine: {'line': b'Installing udp script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[4.218222] (agv) StdoutLine: {'line': b"writing list of installed files to '/home/pi/finalagv_ros2_ws/build/agv/install.log'\n"}
+[4.230806] (-) TimerEvent: {}
+[4.309742] (agv) CommandEnded: {'returncode': 0}
+[4.331501] (-) TimerEvent: {}
+[4.374348] (agv) JobEnded: {'identifier': 'agv', 'rc': 0}
+[4.377039] (-) EventReactorShutdown: {}

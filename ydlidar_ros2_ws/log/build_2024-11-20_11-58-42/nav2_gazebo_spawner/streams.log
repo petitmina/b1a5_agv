@@ -1,0 +1,25 @@
+[4.354s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/nav2_gazebo_spawner': PYTHONPATH=/home/pi/ydlidar_ros2_ws/build/nav2_gazebo_spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pi/ydlidar_ros2_ws/build/nav2_gazebo_spawner/build --no-deps symlink_data
+[6.528s] running develop
+[8.331s] running egg_info
+[8.331s] creating nav2_gazebo_spawner.egg-info
+[8.333s] writing nav2_gazebo_spawner.egg-info/PKG-INFO
+[8.335s] writing dependency_links to nav2_gazebo_spawner.egg-info/dependency_links.txt
+[8.340s] writing entry points to nav2_gazebo_spawner.egg-info/entry_points.txt
+[8.340s] writing requirements to nav2_gazebo_spawner.egg-info/requires.txt
+[8.341s] writing top-level names to nav2_gazebo_spawner.egg-info/top_level.txt
+[8.366s] writing manifest file 'nav2_gazebo_spawner.egg-info/SOURCES.txt'
+[8.641s] reading manifest file 'nav2_gazebo_spawner.egg-info/SOURCES.txt'
+[8.648s] writing manifest file 'nav2_gazebo_spawner.egg-info/SOURCES.txt'
+[9.078s] running build_ext
+[9.081s] Creating /home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/lib/python3.8/site-packages/site.py
+[9.107s] Creating /home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/lib/python3.8/site-packages/nav2-gazebo-spawner.egg-link (link to .)
+[9.119s] Installing nav2_gazebo_spawner script to /home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/lib/nav2_gazebo_spawner
+[9.127s] 
+[9.128s] Installed /home/pi/ydlidar_ros2_ws/build/nav2_gazebo_spawner
+[9.133s] running symlink_data
+[9.134s] creating /home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/share/ament_index
+[9.136s] creating /home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/share/ament_index/resource_index
+[9.136s] creating /home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/share/ament_index/resource_index/packages
+[9.138s] symbolically linking /home/pi/ydlidar_ros2_ws/build/nav2_gazebo_spawner/resource/nav2_gazebo_spawner -> /home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/share/ament_index/resource_index/packages
+[9.139s] symbolically linking /home/pi/ydlidar_ros2_ws/build/nav2_gazebo_spawner/package.xml -> /home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/share/nav2_gazebo_spawner
+[9.522s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/nav2_gazebo_spawner' returned '0': PYTHONPATH=/home/pi/ydlidar_ros2_ws/build/nav2_gazebo_spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pi/ydlidar_ros2_ws/build/nav2_gazebo_spawner/build --no-deps symlink_data

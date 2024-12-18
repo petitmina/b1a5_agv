@@ -1,0 +1,30 @@
+[2.128s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_navigation2 -- -j4 -l4
+[2.370s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_navigation2 -- -j4 -l4
+[2.602s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_navigation2
+[2.658s] -- Install configuration: ""
+[2.660s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/launch
+[2.661s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/launch/navigation2.launch.py
+[2.662s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/map
+[2.663s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/map/test1_map.pgm
+[2.663s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/map/test1_map.yaml
+[2.665s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/param
+[2.666s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/param/follow_point_bt.xml
+[2.667s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/param/myagv.yaml
+[2.667s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/rviz
+[2.669s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/rviz/nav2_config_object_following.rviz
+[2.670s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/ament_index/resource_index/package_run_dependencies/myagv_navigation2
+[2.671s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/ament_index/resource_index/parent_prefix_path/myagv_navigation2
+[2.671s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/environment/ament_prefix_path.sh
+[2.674s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/environment/ament_prefix_path.dsv
+[2.674s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/environment/path.sh
+[2.675s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/environment/path.dsv
+[2.677s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/local_setup.bash
+[2.678s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/local_setup.sh
+[2.679s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/local_setup.zsh
+[2.680s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/local_setup.dsv
+[2.695s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/package.dsv
+[2.695s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/ament_index/resource_index/packages/myagv_navigation2
+[2.697s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/cmake/myagv_navigation2Config.cmake
+[2.698s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/cmake/myagv_navigation2Config-version.cmake
+[2.698s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/package.xml
+[2.699s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_navigation2

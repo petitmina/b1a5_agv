@@ -1,0 +1,82 @@
+[2.718s] Invoking command in '/home/pi/nav_ws/src/agv_bringup': CMAKE_PREFIX_PATH=/home/pi/nav_ws/install/agv_interfaces:/home/pi/nav_ws/install/agv_description:/home/pi/nav_ws/install/ydlidar_ros2_driver:/home/pi/nav_ws/install/agv:/home/pi/nav_ws/install/agv_navigation2:/home/pi/nav_ws/install/agv_cartographer PYTHONPATH=/home/pi/nav_ws/build/agv_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/agv_bringup build --build-base /home/pi/nav_ws/build/agv_bringup/build install --record /home/pi/nav_ws/build/agv_bringup/install.log --install-scripts $base/lib/omo_r1mini_bringup --single-version-externally-managed install_data
+[3.653s] running egg_info
+[3.655s] creating ../../build/agv_bringup/agv_bringup.egg-info
+[3.656s] writing ../../build/agv_bringup/agv_bringup.egg-info/PKG-INFO
+[3.657s] writing dependency_links to ../../build/agv_bringup/agv_bringup.egg-info/dependency_links.txt
+[3.658s] writing entry points to ../../build/agv_bringup/agv_bringup.egg-info/entry_points.txt
+[3.658s] writing requirements to ../../build/agv_bringup/agv_bringup.egg-info/requires.txt
+[3.659s] writing top-level names to ../../build/agv_bringup/agv_bringup.egg-info/top_level.txt
+[3.663s] writing manifest file '../../build/agv_bringup/agv_bringup.egg-info/SOURCES.txt'
+[3.789s] reading manifest file '../../build/agv_bringup/agv_bringup.egg-info/SOURCES.txt'
+[3.792s] writing manifest file '../../build/agv_bringup/agv_bringup.egg-info/SOURCES.txt'
+[3.793s] running build
+[3.794s] running build_py
+[3.794s] creating /home/pi/nav_ws/build/agv_bringup/build
+[3.795s] creating /home/pi/nav_ws/build/agv_bringup/build/lib
+[3.795s] creating /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup
+[3.795s] copying agv_bringup/__init__.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup
+[3.796s] creating /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts
+[3.796s] copying agv_bringup/scripts/agv_mcu_node.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts
+[3.797s] copying agv_bringup/scripts/agv_motor_setting_node.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts
+[3.797s] copying agv_bringup/scripts/omo_packet_handler.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts
+[3.798s] copying agv_bringup/scripts/__init__.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts
+[3.799s] creating /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/driver
+[3.799s] copying agv_bringup/scripts/driver/__init__.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/driver
+[3.800s] copying agv_bringup/scripts/driver/template.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/driver
+[3.800s] copying agv_bringup/scripts/driver/packet.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/driver
+[3.801s] copying agv_bringup/scripts/driver/port.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/driver
+[3.802s] creating /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/calc
+[3.802s] copying agv_bringup/scripts/calc/quaternion_from_euler.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/calc
+[3.803s] copying agv_bringup/scripts/calc/__init__.py -> /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/calc
+[3.805s] running install
+[3.808s] running install_lib
+[3.811s] creating /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup
+[3.812s] creating /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts
+[3.812s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/agv_mcu_node.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts
+[3.813s] creating /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/driver
+[3.813s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/driver/__init__.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/driver
+[3.814s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/driver/template.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/driver
+[3.815s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/driver/packet.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/driver
+[3.815s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/driver/port.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/driver
+[3.816s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/agv_motor_setting_node.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts
+[3.817s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/omo_packet_handler.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts
+[3.817s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/__init__.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts
+[3.818s] creating /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/calc
+[3.818s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/calc/quaternion_from_euler.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/calc
+[3.819s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/scripts/calc/__init__.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/calc
+[3.820s] copying /home/pi/nav_ws/build/agv_bringup/build/lib/agv_bringup/__init__.py -> /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup
+[3.822s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/agv_mcu_node.py to agv_mcu_node.cpython-38.pyc
+[3.834s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/driver/__init__.py to __init__.cpython-38.pyc
+[3.835s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/driver/template.py to template.cpython-38.pyc
+[3.838s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/driver/packet.py to packet.cpython-38.pyc
+[3.841s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/driver/port.py to port.cpython-38.pyc
+[3.843s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/agv_motor_setting_node.py to agv_motor_setting_node.cpython-38.pyc
+[3.845s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/omo_packet_handler.py to omo_packet_handler.cpython-38.pyc
+[3.848s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/__init__.py to __init__.cpython-38.pyc
+[3.849s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/calc/quaternion_from_euler.py to quaternion_from_euler.cpython-38.pyc
+[3.851s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/scripts/calc/__init__.py to __init__.cpython-38.pyc
+[3.852s] byte-compiling /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup/__init__.py to __init__.cpython-38.pyc
+[3.853s] running install_data
+[3.854s] creating /home/pi/nav_ws/install/agv_bringup/share/ament_index
+[3.854s] creating /home/pi/nav_ws/install/agv_bringup/share/ament_index/resource_index
+[3.854s] creating /home/pi/nav_ws/install/agv_bringup/share/ament_index/resource_index/packages
+[3.855s] copying resource/agv_bringup -> /home/pi/nav_ws/install/agv_bringup/share/ament_index/resource_index/packages
+[3.855s] copying package.xml -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup
+[3.856s] creating /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/launch
+[3.856s] copying launch/agv_mcu.launch.py -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/launch
+[3.856s] copying launch/agv_lidar.launch.py -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/launch
+[3.857s] copying launch/agv_motor_setting.launch.py -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/launch
+[3.857s] copying launch/agv_bringup.launch.py -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/launch
+[3.858s] copying launch/agv_lidar_x4pro.launch.py -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/launch
+[3.858s] copying launch/agv_bringup_x4pro.launch.py -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/launch
+[3.859s] creating /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/param
+[3.859s] copying param/agv_lidar_x4_pro.yaml -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/param
+[3.860s] copying param/agv_lidar.yaml -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/param
+[3.860s] copying param/agv_mcu.yaml -> /home/pi/nav_ws/install/agv_bringup/share/agv_bringup/param
+[3.861s] running install_egg_info
+[3.867s] Copying ../../build/agv_bringup/agv_bringup.egg-info to /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup-0.0.1-py3.8.egg-info
+[3.871s] running install_scripts
+[3.934s] Installing agv_mcu_node script to /home/pi/nav_ws/install/agv_bringup/lib/omo_r1mini_bringup
+[3.935s] Installing agv_motor_setting_node script to /home/pi/nav_ws/install/agv_bringup/lib/omo_r1mini_bringup
+[3.939s] writing list of installed files to '/home/pi/nav_ws/build/agv_bringup/install.log'
+[4.033s] Invoked command in '/home/pi/nav_ws/src/agv_bringup' returned '0': CMAKE_PREFIX_PATH=/home/pi/nav_ws/install/agv_interfaces:/home/pi/nav_ws/install/agv_description:/home/pi/nav_ws/install/ydlidar_ros2_driver:/home/pi/nav_ws/install/agv:/home/pi/nav_ws/install/agv_navigation2:/home/pi/nav_ws/install/agv_cartographer PYTHONPATH=/home/pi/nav_ws/build/agv_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/agv_bringup build --build-base /home/pi/nav_ws/build/agv_bringup/build install --record /home/pi/nav_ws/build/agv_bringup/install.log --install-scripts $base/lib/omo_r1mini_bringup --single-version-externally-managed install_data

@@ -1,0 +1,127 @@
+[0.073s] Invoking command in '/home/pi/nav_ws/build/ydlidar_ros2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake /home/pi/nav_ws/src/ydlidar_ros2_driver -DCMAKE_INSTALL_PREFIX=/home/pi/nav_ws/install/ydlidar_ros2_driver
+[0.430s] -- The C compiler identification is GNU 9.4.0
+[0.695s] -- The CXX compiler identification is GNU 9.4.0
+[0.724s] -- Check for working C compiler: /usr/bin/cc
+[1.003s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.007s] -- Detecting C compiler ABI info
+[1.325s] -- Detecting C compiler ABI info - done
+[1.363s] -- Detecting C compile features
+[1.364s] -- Detecting C compile features - done
+[1.373s] -- Check for working CXX compiler: /usr/bin/c++
+[1.712s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.717s] -- Detecting CXX compiler ABI info
+[2.069s] -- Detecting CXX compiler ABI info - done
+[2.113s] -- Detecting CXX compile features
+[2.115s] -- Detecting CXX compile features - done
+[2.141s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.271s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.272s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.416s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[3.764s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.828s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[4.490s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[4.825s] -- Found FastRTPS: /opt/ros/foxy/include  
+[5.459s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.790s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[5.798s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.805s] -- Looking for pthread.h
+[6.139s] -- Looking for pthread.h - found
+[6.142s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[6.520s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[6.521s] -- Looking for pthread_create in pthreads
+[7.007s] -- Looking for pthread_create in pthreads - not found
+[7.014s] -- Looking for pthread_create in pthread
+[7.676s] -- Looking for pthread_create in pthread - found
+[7.687s] -- Found Threads: TRUE  
+[8.757s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[9.370s] -- Found visualization_msgs: 2.0.5 (/opt/ros/foxy/share/visualization_msgs/cmake)
+[9.766s] -- Found std_srvs: 2.0.5 (/opt/ros/foxy/share/std_srvs/cmake)
+[9.872s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[10.822s] -- Added test 'copyright' to check source files copyright and LICENSE
+[10.978s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[10.980s] -- Configured cppcheck include dirs: /home/pi/nav_ws/src/ydlidar_ros2_driver/src
+[10.981s] -- Configured cppcheck exclude dirs and/or files: 
+[11.104s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[11.105s] -- Configured cpplint exclude dirs and/or files: 
+[11.129s] -- Added test 'flake8' to check Python code syntax and style conventions
+[11.167s] -- Added test 'lint_cmake' to check CMake code style
+[11.184s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[11.306s] -- Added test 'uncrustify' to check C / C++ code style
+[11.308s] -- Configured uncrustify additional arguments: 
+[11.329s] -- Added test 'xmllint' to check XML markup files
+[11.364s] -- Configuring done
+[11.464s] -- Generating done
+[11.482s] -- Build files have been written to: /home/pi/nav_ws/build/ydlidar_ros2_driver
+[11.530s] Invoked command in '/home/pi/nav_ws/build/ydlidar_ros2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake /home/pi/nav_ws/src/ydlidar_ros2_driver -DCMAKE_INSTALL_PREFIX=/home/pi/nav_ws/install/ydlidar_ros2_driver
+[11.533s] Invoking command in '/home/pi/nav_ws/build/ydlidar_ros2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/ydlidar_ros2_driver -- -j4 -l4
+[12.055s] [35m[1mScanning dependencies of target ydlidar_ros2_driver_node[0m
+[12.066s] [35m[1mScanning dependencies of target ydlidar_ros2_driver_client[0m
+[12.528s] [ 25%] [32mBuilding CXX object CMakeFiles/ydlidar_ros2_driver_client.dir/src/ydlidar_ros2_driver_client.cpp.o[0m
+[12.591s] [ 50%] [32mBuilding CXX object CMakeFiles/ydlidar_ros2_driver_node.dir/src/ydlidar_ros2_driver_node.cpp.o[0m
+[23.357s] [01m[K/home/pi/nav_ws/src/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:[m[K In lambda function:
+[23.360s] [01m[K/home/pi/nav_ws/src/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:168:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest_header[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[23.361s]   168 |     [&laser]([01;35m[Kconst std::shared_ptr<rmw_request_id_t> request_header[m[K,
+[23.363s]       |              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[23.364s] [01m[K/home/pi/nav_ws/src/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:169:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kreq[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[23.365s]   169 |   [01;35m[Kconst std::shared_ptr<std_srvs::srv::Empty::Request> req[m[K,
+[23.366s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[23.366s] [01m[K/home/pi/nav_ws/src/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:170:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[23.373s]   170 |   [01;35m[Kstd::shared_ptr<std_srvs::srv::Empty::Response> response[m[K) -> bool
+[23.374s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[23.387s] [01m[K/home/pi/nav_ws/src/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:[m[K In lambda function:
+[23.387s] [01m[K/home/pi/nav_ws/src/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:178:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest_header[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[23.388s]   178 |     [&laser]([01;35m[Kconst std::shared_ptr<rmw_request_id_t> request_header[m[K,
+[23.389s]       |              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~[m[K
+[23.390s] [01m[K/home/pi/nav_ws/src/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:179:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kreq[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[23.391s]   179 |   [01;35m[Kconst std::shared_ptr<std_srvs::srv::Empty::Request> req[m[K,
+[23.392s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[23.393s] [01m[K/home/pi/nav_ws/src/ydlidar_ros2_driver/src/ydlidar_ros2_driver_node.cpp:180:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[23.394s]   180 |   [01;35m[Kstd::shared_ptr<std_srvs::srv::Empty::Response> response[m[K) -> bool
+[23.395s]       |   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[38.183s] [ 75%] [32m[1mLinking CXX executable ydlidar_ros2_driver_node[0m
+[39.555s] [ 75%] Built target ydlidar_ros2_driver_node
+[43.707s] [100%] [32m[1mLinking CXX executable ydlidar_ros2_driver_client[0m
+[44.856s] [100%] Built target ydlidar_ros2_driver_client
+[44.896s] Invoked command in '/home/pi/nav_ws/build/ydlidar_ros2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/ydlidar_ros2_driver -- -j4 -l4
+[45.031s] Invoking command in '/home/pi/nav_ws/build/ydlidar_ros2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/ydlidar_ros2_driver
+[45.065s] -- Install configuration: ""
+[45.066s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_node
+[45.077s] -- Set runtime path of "/home/pi/nav_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_node" to ""
+[45.078s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_client
+[45.090s] -- Set runtime path of "/home/pi/nav_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_client" to ""
+[45.091s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch
+[45.091s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar_launch_view.py
+[45.092s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar_launch.py
+[45.093s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar.py
+[45.093s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params
+[45.094s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/G2.yaml
+[45.095s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/X4.yaml
+[45.096s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/GS2.yaml
+[45.096s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/G1.yaml
+[45.097s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/TG.yaml
+[45.098s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/old.yaml
+[45.099s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/G6.yaml
+[45.099s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/TminiPro.yaml
+[45.100s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/X4-Pro.yaml
+[45.101s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/TEA.yaml
+[45.102s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/ydlidar.yaml
+[45.102s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/startup
+[45.103s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/startup/initenv.sh
+[45.104s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/config
+[45.104s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/config/ydlidar.rviz
+[45.106s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ament_index/resource_index/package_run_dependencies/ydlidar_ros2_driver
+[45.107s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ament_index/resource_index/parent_prefix_path/ydlidar_ros2_driver
+[45.109s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/ament_prefix_path.sh
+[45.110s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/ament_prefix_path.dsv
+[45.112s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/path.sh
+[45.113s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/path.dsv
+[45.114s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.bash
+[45.116s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.sh
+[45.117s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.zsh
+[45.118s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.dsv
+[45.119s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/package.dsv
+[45.120s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ament_index/resource_index/packages/ydlidar_ros2_driver
+[45.121s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/cmake/ydlidar_ros2_driverConfig.cmake
+[45.122s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/cmake/ydlidar_ros2_driverConfig-version.cmake
+[45.123s] -- Installing: /home/pi/nav_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/package.xml
+[45.132s] Invoked command in '/home/pi/nav_ws/build/ydlidar_ros2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/ydlidar_ros2_driver

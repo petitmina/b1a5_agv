@@ -1,0 +1,26 @@
+[0.084s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/ps2_controller': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/ps2_controller -- -j4 -l4
+[0.759s] [100%] Built target ps2_controller_node
+[0.867s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/ps2_controller' returned '0': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/ps2_controller -- -j4 -l4
+[1.095s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/ps2_controller': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/ps2_controller
+[1.177s] -- Install configuration: ""
+[1.178s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/lib/ps2_controller/ps2_controller_node
+[1.178s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/include/
+[1.179s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/include//ps2_controller
+[1.180s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/include//ps2_controller/ps2_controller_node.hpp
+[1.181s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/include//ps2_controller/ps2_controller.h
+[1.185s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ament_index/resource_index/package_run_dependencies/ps2_controller
+[1.187s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ament_index/resource_index/parent_prefix_path/ps2_controller
+[1.194s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/environment/ament_prefix_path.sh
+[1.194s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/environment/ament_prefix_path.dsv
+[1.195s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/environment/path.sh
+[1.196s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/environment/path.dsv
+[1.196s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/local_setup.bash
+[1.197s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/local_setup.sh
+[1.198s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/local_setup.zsh
+[1.198s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/local_setup.dsv
+[1.199s] -- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/package.dsv
+[1.211s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ament_index/resource_index/packages/ps2_controller
+[1.212s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/cmake/ps2_controllerConfig.cmake
+[1.213s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/cmake/ps2_controllerConfig-version.cmake
+[1.213s] -- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/package.xml
+[1.226s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/ps2_controller' returned '0': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/ps2_controller

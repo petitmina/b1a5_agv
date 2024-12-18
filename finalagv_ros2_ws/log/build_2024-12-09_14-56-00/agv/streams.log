@@ -1,0 +1,30 @@
+[3.059s] Invoking command in '/home/pi/finalagv_ros2_ws/src/agv': PYTHONPATH=/home/pi/finalagv_ros2_ws/build/agv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/agv build --build-base /home/pi/finalagv_ros2_ws/build/agv/build install --record /home/pi/finalagv_ros2_ws/build/agv/install.log --install-scripts $base/lib/agv --single-version-externally-managed install_data
+[3.987s] running egg_info
+[3.989s] writing ../../build/agv/agv.egg-info/PKG-INFO
+[3.993s] writing dependency_links to ../../build/agv/agv.egg-info/dependency_links.txt
+[3.994s] writing entry points to ../../build/agv/agv.egg-info/entry_points.txt
+[3.994s] writing requirements to ../../build/agv/agv.egg-info/requires.txt
+[3.995s] writing top-level names to ../../build/agv/agv.egg-info/top_level.txt
+[4.132s] reading manifest file '../../build/agv/agv.egg-info/SOURCES.txt'
+[4.137s] writing manifest file '../../build/agv/agv.egg-info/SOURCES.txt'
+[4.138s] running build
+[4.139s] running build_py
+[4.139s] copying agv/sub2.py -> /home/pi/finalagv_ros2_ws/build/agv/build/lib/agv
+[4.146s] running install
+[4.150s] running install_lib
+[4.154s] copying /home/pi/finalagv_ros2_ws/build/agv/build/lib/agv/sub2.py -> /home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv
+[4.162s] byte-compiling /home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv/sub2.py to sub2.cpython-38.pyc
+[4.172s] running install_data
+[4.178s] running install_egg_info
+[4.185s] removing '/home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv-0.0.0-py3.8.egg-info' (and everything under it)
+[4.188s] Copying ../../build/agv/agv.egg-info to /home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv-0.0.0-py3.8.egg-info
+[4.196s] running install_scripts
+[4.261s] Installing pub script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv
+[4.262s] Installing pub2 script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv
+[4.263s] Installing return script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv
+[4.264s] Installing sub script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv
+[4.265s] Installing sub2 script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv
+[4.265s] Installing tel script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv
+[4.266s] Installing udp script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv
+[4.268s] writing list of installed files to '/home/pi/finalagv_ros2_ws/build/agv/install.log'
+[4.367s] Invoked command in '/home/pi/finalagv_ros2_ws/src/agv' returned '0': PYTHONPATH=/home/pi/finalagv_ros2_ws/build/agv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/agv build --build-base /home/pi/finalagv_ros2_ws/build/agv/build install --record /home/pi/finalagv_ros2_ws/build/agv/install.log --install-scripts $base/lib/agv --single-version-externally-managed install_data

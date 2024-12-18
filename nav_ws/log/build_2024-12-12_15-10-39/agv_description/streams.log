@@ -1,0 +1,32 @@
+[0.157s] Invoking command in '/home/pi/nav_ws/build/agv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_description -- -j4 -l4
+[0.370s] Invoked command in '/home/pi/nav_ws/build/agv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_description -- -j4 -l4
+[0.654s] Invoking command in '/home/pi/nav_ws/build/agv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_description
+[0.702s] -- Install configuration: ""
+[0.705s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes
+[0.706s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes/agv_all.dae
+[0.707s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes/agv_up.dae
+[0.708s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes/agv_base.dae
+[0.709s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/rviz
+[0.709s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/rviz/agv.rviz
+[0.710s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/urdf
+[0.710s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/urdf/agv.urdf
+[0.712s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/launch
+[0.724s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/launch/agv_state_publisher.launch.py
+[0.727s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/launch/agv_description_rviz.launch.py
+[0.728s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/launch/agv_description.launch.py
+[0.739s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/ament_index/resource_index/package_run_dependencies/agv_description
+[0.742s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/ament_index/resource_index/parent_prefix_path/agv_description
+[0.743s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/ament_prefix_path.sh
+[0.744s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/ament_prefix_path.dsv
+[0.745s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/path.sh
+[0.746s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/path.dsv
+[0.749s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.bash
+[0.750s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.sh
+[0.751s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.zsh
+[0.751s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.dsv
+[0.752s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/package.dsv
+[0.753s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/ament_index/resource_index/packages/agv_description
+[0.754s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/cmake/agv_descriptionConfig.cmake
+[0.754s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/cmake/agv_descriptionConfig-version.cmake
+[0.755s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/package.xml
+[0.781s] Invoked command in '/home/pi/nav_ws/build/agv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_description

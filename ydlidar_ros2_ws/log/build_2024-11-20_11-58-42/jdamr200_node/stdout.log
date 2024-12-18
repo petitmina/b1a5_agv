@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing jdamr200_node.egg-info/PKG-INFO
+writing dependency_links to jdamr200_node.egg-info/dependency_links.txt
+writing entry points to jdamr200_node.egg-info/entry_points.txt
+writing requirements to jdamr200_node.egg-info/requires.txt
+writing top-level names to jdamr200_node.egg-info/top_level.txt
+reading manifest file 'jdamr200_node.egg-info/SOURCES.txt'
+writing manifest file 'jdamr200_node.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/site.py
+Creating /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/jdamr200-node.egg-link (link to .)
+Installing jdamr200_node script to /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/jdamr200_node
+
+Installed /home/pi/ydlidar_ros2_ws/build/jdamr200_node
+running symlink_data
+symbolically linking /home/pi/ydlidar_ros2_ws/build/jdamr200_node/resource/jdamr200_node -> /home/pi/ydlidar_ros2_ws/install/jdamr200_node/share/ament_index/resource_index/packages
+symbolically linking /home/pi/ydlidar_ros2_ws/build/jdamr200_node/package.xml -> /home/pi/ydlidar_ros2_ws/install/jdamr200_node/share/jdamr200_node

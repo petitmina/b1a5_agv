@@ -1,0 +1,28 @@
+[0.169s] Invoking command in '/home/pi/nav_ws/build/agv_cartographer': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_cartographer -- -j4 -l4
+[0.605s] Invoked command in '/home/pi/nav_ws/build/agv_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_cartographer -- -j4 -l4
+[0.879s] Invoking command in '/home/pi/nav_ws/build/agv_cartographer': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_cartographer
+[0.975s] -- Install configuration: ""
+[0.989s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/config
+[0.991s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/config/agv_lidar.lua
+[0.992s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/launch
+[1.002s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/launch/cartographer_rviz.launch.py
+[1.003s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/launch/cartographer.launch.py
+[1.004s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/launch/occupancy_grid.launch.py
+[1.006s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/rviz
+[1.009s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/rviz/agv_cartographer.rviz
+[1.013s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/ament_index/resource_index/package_run_dependencies/agv_cartographer
+[1.014s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/ament_index/resource_index/parent_prefix_path/agv_cartographer
+[1.015s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/environment/ament_prefix_path.sh
+[1.016s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/environment/ament_prefix_path.dsv
+[1.017s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/environment/path.sh
+[1.017s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/environment/path.dsv
+[1.018s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/local_setup.bash
+[1.019s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/local_setup.sh
+[1.020s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/local_setup.zsh
+[1.020s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/local_setup.dsv
+[1.024s] -- Installing: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/package.dsv
+[1.025s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/ament_index/resource_index/packages/agv_cartographer
+[1.026s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/cmake/agv_cartographerConfig.cmake
+[1.027s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/cmake/agv_cartographerConfig-version.cmake
+[1.027s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/package.xml
+[1.154s] Invoked command in '/home/pi/nav_ws/build/agv_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_cartographer

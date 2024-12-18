@@ -1,0 +1,532 @@
+[0.000000] (-) TimerEvent: {}
+[0.000995] (jdamr200_node) JobQueued: {'identifier': 'jdamr200_node', 'dependencies': OrderedDict()}
+[0.001284] (jdamr200_teleop) JobQueued: {'identifier': 'jdamr200_teleop', 'dependencies': OrderedDict()}
+[0.002312] (myagv_description) JobQueued: {'identifier': 'myagv_description', 'dependencies': OrderedDict()}
+[0.002822] (myagv_navigation2) JobQueued: {'identifier': 'myagv_navigation2', 'dependencies': OrderedDict()}
+[0.003306] (ps2_controller) JobQueued: {'identifier': 'ps2_controller', 'dependencies': OrderedDict()}
+[0.003482] (ydlidar_ros2_driver) JobQueued: {'identifier': 'ydlidar_ros2_driver', 'dependencies': OrderedDict()}
+[0.003782] (myagv_bringup) JobQueued: {'identifier': 'myagv_bringup', 'dependencies': OrderedDict([('myagv_description', '/home/pi/ydlidar_ros2_ws/install/myagv_description')])}
+[0.003964] (myagv_description) JobStarted: {'identifier': 'myagv_description'}
+[0.033588] (jdamr200_node) JobStarted: {'identifier': 'jdamr200_node'}
+[0.065665] (jdamr200_teleop) JobStarted: {'identifier': 'jdamr200_teleop'}
+[0.095919] (myagv_navigation2) JobStarted: {'identifier': 'myagv_navigation2'}
+[0.099220] (-) TimerEvent: {}
+[0.131578] (myagv_description) JobProgress: {'identifier': 'myagv_description', 'progress': 'cmake'}
+[0.134504] (myagv_description) JobProgress: {'identifier': 'myagv_description', 'progress': 'build'}
+[0.137494] (myagv_description) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/pi/ydlidar_ros2_ws/build/myagv_description', '--', '-j4', '-l4'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/myagv_description', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/myagv_description'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[0.199581] (-) TimerEvent: {}
+[0.300695] (-) TimerEvent: {}
+[0.401651] (-) TimerEvent: {}
+[0.502355] (-) TimerEvent: {}
+[0.603089] (-) TimerEvent: {}
+[0.703853] (-) TimerEvent: {}
+[0.804511] (-) TimerEvent: {}
+[0.905136] (-) TimerEvent: {}
+[1.005865] (-) TimerEvent: {}
+[1.106702] (-) TimerEvent: {}
+[1.207924] (-) TimerEvent: {}
+[1.309159] (-) TimerEvent: {}
+[1.409882] (-) TimerEvent: {}
+[1.510612] (-) TimerEvent: {}
+[1.611495] (-) TimerEvent: {}
+[1.712746] (-) TimerEvent: {}
+[1.813406] (-) TimerEvent: {}
+[1.914095] (-) TimerEvent: {}
+[2.014769] (-) TimerEvent: {}
+[2.115671] (-) TimerEvent: {}
+[2.214513] (myagv_navigation2) JobProgress: {'identifier': 'myagv_navigation2', 'progress': 'cmake'}
+[2.215920] (-) TimerEvent: {}
+[2.218917] (myagv_navigation2) JobProgress: {'identifier': 'myagv_navigation2', 'progress': 'build'}
+[2.220034] (myagv_navigation2) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2', '--', '-j4', '-l4'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[2.242607] (myagv_description) CommandEnded: {'returncode': 0}
+[2.316234] (-) TimerEvent: {}
+[2.380496] (myagv_description) JobProgress: {'identifier': 'myagv_description', 'progress': 'install'}
+[2.416484] (-) TimerEvent: {}
+[2.427227] (myagv_description) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/pi/ydlidar_ros2_ws/build/myagv_description'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/myagv_description', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/myagv_description'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[2.448709] (myagv_navigation2) CommandEnded: {'returncode': 0}
+[2.504855] (myagv_description) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[2.506839] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/urdf\n'}
+[2.508124] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/urdf/myAGV.urdf\n'}
+[2.509060] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes\n'}
+[2.509952] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_up.dae\n'}
+[2.510882] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_base.dae\n'}
+[2.513362] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_all.dae\n'}
+[2.514208] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/package_run_dependencies/myagv_description\n'}
+[2.515057] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/parent_prefix_path/myagv_description\n'}
+[2.515848] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.sh\n'}
+[2.516483] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.dsv\n'}
+[2.517086] (-) TimerEvent: {}
+[2.520239] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.sh\n'}
+[2.520912] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.dsv\n'}
+[2.521622] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.bash\n'}
+[2.524288] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.sh\n'}
+[2.527817] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.zsh\n'}
+[2.531068] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.dsv\n'}
+[2.532836] (myagv_description) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.dsv\n'}
+[2.534047] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/packages/myagv_description\n'}
+[2.535386] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig.cmake\n'}
+[2.536437] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig-version.cmake\n'}
+[2.537277] (myagv_description) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.xml\n'}
+[2.551780] (myagv_description) CommandEnded: {'returncode': 0}
+[2.617347] (-) TimerEvent: {}
+[2.639470] (myagv_navigation2) JobProgress: {'identifier': 'myagv_navigation2', 'progress': 'install'}
+[2.644077] (myagv_navigation2) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/myagv_navigation2'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[2.717707] (-) TimerEvent: {}
+[2.738936] (myagv_navigation2) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[2.743726] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/launch\n'}
+[2.744569] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/launch/navigation2.launch.py\n'}
+[2.745305] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/map\n'}
+[2.746203] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/map/test1_map.pgm\n'}
+[2.748133] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/map/test1_map.yaml\n'}
+[2.748888] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/param\n'}
+[2.749491] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/param/follow_point_bt.xml\n'}
+[2.750129] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/param/myagv.yaml\n'}
+[2.757889] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/rviz\n'}
+[2.763142] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/rviz/nav2_config_object_following.rviz\n'}
+[2.763938] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/ament_index/resource_index/package_run_dependencies/myagv_navigation2\n'}
+[2.765155] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/ament_index/resource_index/parent_prefix_path/myagv_navigation2\n'}
+[2.765928] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/environment/ament_prefix_path.sh\n'}
+[2.766637] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/environment/ament_prefix_path.dsv\n'}
+[2.767325] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/environment/path.sh\n'}
+[2.768128] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/environment/path.dsv\n'}
+[2.768984] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/local_setup.bash\n'}
+[2.769696] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/local_setup.sh\n'}
+[2.772571] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/local_setup.zsh\n'}
+[2.781423] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/local_setup.dsv\n'}
+[2.781816] (myagv_navigation2) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/package.dsv\n'}
+[2.782153] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/ament_index/resource_index/packages/myagv_navigation2\n'}
+[2.782855] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/cmake/myagv_navigation2Config.cmake\n'}
+[2.783332] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/cmake/myagv_navigation2Config-version.cmake\n'}
+[2.784293] (myagv_navigation2) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_navigation2/share/myagv_navigation2/package.xml\n'}
+[2.786572] (myagv_navigation2) CommandEnded: {'returncode': 0}
+[2.821163] (-) TimerEvent: {}
+[2.902052] (myagv_description) JobEnded: {'identifier': 'myagv_description', 'rc': 0}
+[2.905706] (ps2_controller) JobStarted: {'identifier': 'ps2_controller'}
+[2.922172] (-) TimerEvent: {}
+[2.946697] (ps2_controller) JobProgress: {'identifier': 'ps2_controller', 'progress': 'cmake'}
+[2.950916] (ps2_controller) Command: {'cmd': ['/usr/bin/cmake', '/home/pi/ydlidar_ros2_ws/src/ps2_controller', '-DCMAKE_INSTALL_PREFIX=/home/pi/ydlidar_ros2_ws/install/ps2_controller'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/ps2_controller', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/ps2_controller'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[3.016466] (myagv_navigation2) JobEnded: {'identifier': 'myagv_navigation2', 'rc': 0}
+[3.019827] (ydlidar_ros2_driver) JobStarted: {'identifier': 'ydlidar_ros2_driver'}
+[3.022832] (-) TimerEvent: {}
+[3.066544] (ydlidar_ros2_driver) JobProgress: {'identifier': 'ydlidar_ros2_driver', 'progress': 'cmake'}
+[3.071470] (ydlidar_ros2_driver) JobProgress: {'identifier': 'ydlidar_ros2_driver', 'progress': 'build'}
+[3.073166] (ydlidar_ros2_driver) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/pi/ydlidar_ros2_ws/build/ydlidar_ros2_driver', '--', '-j4', '-l4'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/ydlidar_ros2_driver', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/ydlidar_ros2_driver'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[3.123110] (-) TimerEvent: {}
+[3.224844] (-) TimerEvent: {}
+[3.325726] (-) TimerEvent: {}
+[3.426779] (-) TimerEvent: {}
+[3.453993] (ydlidar_ros2_driver) StdoutLine: {'line': b'[ 50%] Built target ydlidar_ros2_driver_client\n'}
+[3.495517] (ydlidar_ros2_driver) StdoutLine: {'line': b'[100%] Built target ydlidar_ros2_driver_node\n'}
+[3.527006] (-) TimerEvent: {}
+[3.561078] (ydlidar_ros2_driver) CommandEnded: {'returncode': 0}
+[3.627362] (-) TimerEvent: {}
+[3.633047] (ps2_controller) StdoutLine: {'line': b'-- The C compiler identification is GNU 9.4.0\n'}
+[3.727510] (-) TimerEvent: {}
+[3.764762] (ydlidar_ros2_driver) JobProgress: {'identifier': 'ydlidar_ros2_driver', 'progress': 'install'}
+[3.765072] (ydlidar_ros2_driver) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/pi/ydlidar_ros2_ws/build/ydlidar_ros2_driver'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/ydlidar_ros2_driver', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/ydlidar_ros2_driver'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[3.792128] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[3.793780] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_node\n'}
+[3.797317] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/lib/ydlidar_ros2_driver/ydlidar_ros2_driver_client\n'}
+[3.799021] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch\n'}
+[3.799790] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar_launch_view.py\n'}
+[3.801036] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar_launch.py\n'}
+[3.801595] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar.py\n'}
+[3.802871] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/launch/ydlidar_cartographer.launch.py\n'}
+[3.804069] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params\n'}
+[3.805210] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/G2.yaml\n'}
+[3.805843] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/X4.yaml\n'}
+[3.807292] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/GS2.yaml\n'}
+[3.809903] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/G1.yaml\n'}
+[3.811370] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/TG.yaml\n'}
+[3.812974] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/old.yaml\n'}
+[3.814143] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/G6.yaml\n'}
+[3.815379] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/TminiPro.yaml\n'}
+[3.816428] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/X4-Pro.yaml\n'}
+[3.817423] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/TEA.yaml\n'}
+[3.818333] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/params/ydlidar.yaml\n'}
+[3.819745] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/startup\n'}
+[3.821965] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/startup/initenv.sh\n'}
+[3.828373] (-) TimerEvent: {}
+[3.829147] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/config\n'}
+[3.834583] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/config/ydlidar_cartographer.rviz\n'}
+[3.835383] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/config/ydlidar.rviz\n'}
+[3.836695] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/config/ydlidar_cartographer.lua\n'}
+[3.837399] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ament_index/resource_index/package_run_dependencies/ydlidar_ros2_driver\n'}
+[3.838847] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ament_index/resource_index/parent_prefix_path/ydlidar_ros2_driver\n'}
+[3.839761] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/ament_prefix_path.sh\n'}
+[3.840442] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/ament_prefix_path.dsv\n'}
+[3.841149] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/path.sh\n'}
+[3.841790] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/environment/path.dsv\n'}
+[3.842414] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.bash\n'}
+[3.843249] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.sh\n'}
+[3.845028] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.zsh\n'}
+[3.845778] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/local_setup.dsv\n'}
+[3.851442] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/package.dsv\n'}
+[3.852041] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ament_index/resource_index/packages/ydlidar_ros2_driver\n'}
+[3.852487] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/cmake/ydlidar_ros2_driverConfig.cmake\n'}
+[3.855370] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/cmake/ydlidar_ros2_driverConfig-version.cmake\n'}
+[3.856138] (ydlidar_ros2_driver) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/ydlidar_ros2_driver/share/ydlidar_ros2_driver/package.xml\n'}
+[3.856981] (ydlidar_ros2_driver) CommandEnded: {'returncode': 0}
+[3.929231] (-) TimerEvent: {}
+[4.033480] (-) TimerEvent: {}
+[4.137225] (-) TimerEvent: {}
+[4.159672] (ydlidar_ros2_driver) JobEnded: {'identifier': 'ydlidar_ros2_driver', 'rc': 0}
+[4.168513] (myagv_bringup) JobStarted: {'identifier': 'myagv_bringup'}
+[4.201555] (myagv_bringup) JobProgress: {'identifier': 'myagv_bringup', 'progress': 'cmake'}
+[4.204975] (myagv_bringup) JobProgress: {'identifier': 'myagv_bringup', 'progress': 'build'}
+[4.206428] (myagv_bringup) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/pi/ydlidar_ros2_ws/build/myagv_bringup', '--', '-j4', '-l4'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/myagv_bringup', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/home/pi/ydlidar_ros2_ws/install/myagv_description:/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/myagv_bringup'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/pi/ydlidar_ros2_ws/install/myagv_description:/opt/ros/foxy')]), 'shell': False}
+[4.237605] (-) TimerEvent: {}
+[4.338608] (-) TimerEvent: {}
+[4.423357] (myagv_bringup) CommandEnded: {'returncode': 0}
+[4.438953] (-) TimerEvent: {}
+[4.540419] (-) TimerEvent: {}
+[4.601352] (myagv_bringup) JobProgress: {'identifier': 'myagv_bringup', 'progress': 'install'}
+[4.602305] (myagv_bringup) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/pi/ydlidar_ros2_ws/build/myagv_bringup'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/myagv_bringup', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/home/pi/ydlidar_ros2_ws/install/myagv_description:/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/myagv_bringup'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/pi/ydlidar_ros2_ws/install/myagv_description:/opt/ros/foxy')]), 'shell': False}
+[4.632202] (ps2_controller) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 9.4.0\n'}
+[4.640812] (-) TimerEvent: {}
+[4.675691] (myagv_bringup) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[4.679460] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/launch\n'}
+[4.682790] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/launch/myagv_state_publisher.launch.py\n'}
+[4.685673] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/launch/myagv.launch.py\n'}
+[4.689036] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/ament_index/resource_index/package_run_dependencies/myagv_bringup\n'}
+[4.692301] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/ament_index/resource_index/parent_prefix_path/myagv_bringup\n'}
+[4.695733] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/environment/ament_prefix_path.sh\n'}
+[4.698736] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/environment/ament_prefix_path.dsv\n'}
+[4.707365] (ps2_controller) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc\n'}
+[4.709059] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/environment/path.sh\n'}
+[4.710307] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/environment/path.dsv\n'}
+[4.711590] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/local_setup.bash\n'}
+[4.712815] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/local_setup.sh\n'}
+[4.713773] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/local_setup.zsh\n'}
+[4.714831] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/local_setup.dsv\n'}
+[4.722880] (myagv_bringup) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/package.dsv\n'}
+[4.724434] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/ament_index/resource_index/packages/myagv_bringup\n'}
+[4.725804] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/cmake/myagv_bringupConfig.cmake\n'}
+[4.727285] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/cmake/myagv_bringupConfig-version.cmake\n'}
+[4.728667] (myagv_bringup) StdoutLine: {'line': b'-- Up-to-date: /home/pi/ydlidar_ros2_ws/install/myagv_bringup/share/myagv_bringup/package.xml\n'}
+[4.752324] (myagv_bringup) CommandEnded: {'returncode': 0}
+[4.755130] (-) TimerEvent: {}
+[4.856559] (-) TimerEvent: {}
+[4.859432] (jdamr200_node) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/jdamr200_node', 'build', '--build-base', '/home/pi/ydlidar_ros2_ws/build/jdamr200_node/build', 'install', '--record', '/home/pi/ydlidar_ros2_ws/build/jdamr200_node/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/pi/ydlidar_ros2_ws/src/jdamr200_node', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'pi', 'SSH_CLIENT': '172.30.1.92 58629 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/pi', 'OLDPWD': '/home/pi', 'SSH_TTY': '/dev/pts/8', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'pi', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '5', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'ROS_DOMAIN_ID': '57', 'AMENT_PREFIX_PATH': '/opt/ros/foxy', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/home/pi/ydlidar_ros2_ws/build/jdamr200_node', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '172.30.1.92 58629 172.30.1.33 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/pi/ydlidar_ros2_ws/build/jdamr200_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[4.956923] (-) TimerEvent: {}
+[5.035772] (myagv_bringup) JobEnded: {'identifier': 'myagv_bringup', 'rc': 0}
+[5.057187] (-) TimerEvent: {}
+[5.158923] (-) TimerEvent: {}
+[5.214612] (ps2_controller) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc -- works\n'}
+[5.223125] (ps2_controller) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[5.261962] (jdamr200_teleop) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/jdamr200_teleop', 'build', '--build-base', '/home/pi/ydlidar_ros2_ws/build/jdamr200_teleop/build', 'install', '--record', '/home/pi/ydlidar_ros2_ws/build/jdamr200_teleop/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/pi/ydlidar_ros2_ws/src/jdamr200_teleop', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'pi', 'SSH_CLIENT': '172.30.1.92 58629 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/pi', 'OLDPWD': '/home/pi', 'SSH_TTY': '/dev/pts/8', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'pi', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '5', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'ROS_DOMAIN_ID': '57', 'AMENT_PREFIX_PATH': '/opt/ros/foxy', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/home/pi/ydlidar_ros2_ws/build/jdamr200_teleop', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '172.30.1.92 58629 172.30.1.33 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/pi/ydlidar_ros2_ws/build/jdamr200_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1'}, 'shell': False}
+[5.269461] (-) TimerEvent: {}
+[5.372103] (-) TimerEvent: {}
+[5.474416] (-) TimerEvent: {}
+[5.570985] (ps2_controller) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[5.574594] (-) TimerEvent: {}
+[5.617425] (ps2_controller) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[5.619817] (ps2_controller) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[5.633629] (ps2_controller) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++\n'}
+[5.674801] (-) TimerEvent: {}
+[5.775793] (-) TimerEvent: {}
+[5.878413] (-) TimerEvent: {}
+[5.980006] (-) TimerEvent: {}
+[5.992871] (ps2_controller) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ -- works\n'}
+[5.997490] (ps2_controller) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[6.080165] (-) TimerEvent: {}
+[6.181803] (-) TimerEvent: {}
+[6.282899] (-) TimerEvent: {}
+[6.359818] (jdamr200_node) StdoutLine: {'line': b'running egg_info\n'}
+[6.361907] (jdamr200_node) StdoutLine: {'line': b'writing ../../build/jdamr200_node/jdamr200_node.egg-info/PKG-INFO\n'}
+[6.363108] (jdamr200_node) StdoutLine: {'line': b'writing dependency_links to ../../build/jdamr200_node/jdamr200_node.egg-info/dependency_links.txt\n'}
+[6.364138] (jdamr200_node) StdoutLine: {'line': b'writing entry points to ../../build/jdamr200_node/jdamr200_node.egg-info/entry_points.txt\n'}
+[6.365395] (jdamr200_node) StdoutLine: {'line': b'writing requirements to ../../build/jdamr200_node/jdamr200_node.egg-info/requires.txt\n'}
+[6.366609] (ps2_controller) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[6.367752] (jdamr200_node) StdoutLine: {'line': b'writing top-level names to ../../build/jdamr200_node/jdamr200_node.egg-info/top_level.txt\n'}
+[6.383133] (-) TimerEvent: {}
+[6.411096] (ps2_controller) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[6.413418] (ps2_controller) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[6.441868] (ps2_controller) StdoutLine: {'line': b'-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)\n'}
+[6.483293] (-) TimerEvent: {}
+[6.517673] (jdamr200_node) StdoutLine: {'line': b"reading manifest file '../../build/jdamr200_node/jdamr200_node.egg-info/SOURCES.txt'\n"}
+[6.524184] (jdamr200_node) StdoutLine: {'line': b"writing manifest file '../../build/jdamr200_node/jdamr200_node.egg-info/SOURCES.txt'\n"}
+[6.525329] (jdamr200_node) StdoutLine: {'line': b'running build\n'}
+[6.526356] (jdamr200_node) StdoutLine: {'line': b'running build_py\n'}
+[6.528271] (jdamr200_node) StdoutLine: {'line': b'running install\n'}
+[6.532816] (jdamr200_node) StdoutLine: {'line': b'running install_lib\n'}
+[6.543204] (jdamr200_node) StdoutLine: {'line': b'running install_data\n'}
+[6.544485] (jdamr200_node) StdoutLine: {'line': b'running install_egg_info\n'}
+[6.554184] (jdamr200_node) StdoutLine: {'line': b"removing '/home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/jdamr200_node-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[6.556452] (jdamr200_node) StdoutLine: {'line': b'Copying ../../build/jdamr200_node/jdamr200_node.egg-info to /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/jdamr200_node-0.0.0-py3.8.egg-info\n'}
+[6.563355] (jdamr200_node) StdoutLine: {'line': b'running install_scripts\n'}
+[6.583605] (-) TimerEvent: {}
+[6.651477] (ps2_controller) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") \n'}
+[6.652577] (ps2_controller) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[6.660600] (jdamr200_node) StdoutLine: {'line': b'Installing jdamr200_node script to /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/jdamr200_node\n'}
+[6.663384] (jdamr200_node) StdoutLine: {'line': b"writing list of installed files to '/home/pi/ydlidar_ros2_ws/build/jdamr200_node/install.log'\n"}
+[6.683943] (-) TimerEvent: {}
+[6.690741] (jdamr200_teleop) StdoutLine: {'line': b'running egg_info\n'}
+[6.696280] (jdamr200_teleop) StdoutLine: {'line': b'writing ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/PKG-INFO\n'}
+[6.698373] (jdamr200_teleop) StdoutLine: {'line': b'writing dependency_links to ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/dependency_links.txt\n'}
+[6.699753] (jdamr200_teleop) StdoutLine: {'line': b'writing entry points to ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/entry_points.txt\n'}
+[6.702374] (jdamr200_teleop) StdoutLine: {'line': b'writing requirements to ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/requires.txt\n'}
+[6.704764] (jdamr200_teleop) StdoutLine: {'line': b'writing top-level names to ../../build/jdamr200_teleop/jdamr200_teleop.egg-info/top_level.txt\n'}
+[6.784221] (-) TimerEvent: {}
+[6.803862] (jdamr200_node) CommandEnded: {'returncode': 0}
+[6.838407] (jdamr200_node) JobEnded: {'identifier': 'jdamr200_node', 'rc': 0}
+[6.884375] (-) TimerEvent: {}
+[6.892323] (jdamr200_teleop) StdoutLine: {'line': b"reading manifest file '../../build/jdamr200_teleop/jdamr200_teleop.egg-info/SOURCES.txt'\n"}
+[6.896258] (jdamr200_teleop) StdoutLine: {'line': b"writing manifest file '../../build/jdamr200_teleop/jdamr200_teleop.egg-info/SOURCES.txt'\n"}
+[6.896989] (jdamr200_teleop) StdoutLine: {'line': b'running build\n'}
+[6.897728] (jdamr200_teleop) StdoutLine: {'line': b'running build_py\n'}
+[6.898509] (jdamr200_teleop) StdoutLine: {'line': b'running install\n'}
+[6.901717] (jdamr200_teleop) StdoutLine: {'line': b'running install_lib\n'}
+[6.908896] (jdamr200_teleop) StdoutLine: {'line': b'running install_data\n'}
+[6.909779] (jdamr200_teleop) StdoutLine: {'line': b'running install_egg_info\n'}
+[6.917854] (jdamr200_teleop) StdoutLine: {'line': b"removing '/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop/lib/python3.8/site-packages/jdamr200_teleop-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[6.920177] (jdamr200_teleop) StdoutLine: {'line': b'Copying ../../build/jdamr200_teleop/jdamr200_teleop.egg-info to /home/pi/ydlidar_ros2_ws/install/jdamr200_teleop/lib/python3.8/site-packages/jdamr200_teleop-0.0.0-py3.8.egg-info\n'}
+[6.925766] (jdamr200_teleop) StdoutLine: {'line': b'running install_scripts\n'}
+[6.984545] (-) TimerEvent: {}
+[6.997810] (jdamr200_teleop) StdoutLine: {'line': b'Installing jdamr_teleop script to /home/pi/ydlidar_ros2_ws/install/jdamr200_teleop/lib/jdamr200_teleop\n'}
+[6.999440] (jdamr200_teleop) StdoutLine: {'line': b"writing list of installed files to '/home/pi/ydlidar_ros2_ws/build/jdamr200_teleop/install.log'\n"}
+[7.084758] (-) TimerEvent: {}
+[7.110666] (jdamr200_teleop) CommandEnded: {'returncode': 0}
+[7.143200] (jdamr200_teleop) JobEnded: {'identifier': 'jdamr200_teleop', 'rc': 0}
+[7.184953] (-) TimerEvent: {}
+[7.285602] (-) TimerEvent: {}
+[7.386233] (-) TimerEvent: {}
+[7.486905] (-) TimerEvent: {}
+[7.587711] (-) TimerEvent: {}
+[7.688581] (-) TimerEvent: {}
+[7.789245] (-) TimerEvent: {}
+[7.863759] (ps2_controller) StdoutLine: {'line': b'-- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)\n'}
+[7.889412] (-) TimerEvent: {}
+[7.990090] (-) TimerEvent: {}
+[8.090764] (-) TimerEvent: {}
+[8.191501] (-) TimerEvent: {}
+[8.238477] (ps2_controller) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[8.291691] (-) TimerEvent: {}
+[8.304109] (ps2_controller) StdoutLine: {'line': b'-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)\n'}
+[8.391864] (-) TimerEvent: {}
+[8.492727] (-) TimerEvent: {}
+[8.593400] (-) TimerEvent: {}
+[8.694255] (-) TimerEvent: {}
+[8.795070] (-) TimerEvent: {}
+[8.896093] (-) TimerEvent: {}
+[8.968852] (ps2_controller) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  \n'}
+[8.996180] (-) TimerEvent: {}
+[9.096845] (-) TimerEvent: {}
+[9.197523] (-) TimerEvent: {}
+[9.231236] (ps2_controller) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/foxy/include  \n'}
+[9.297702] (-) TimerEvent: {}
+[9.398379] (-) TimerEvent: {}
+[9.499119] (-) TimerEvent: {}
+[9.600084] (-) TimerEvent: {}
+[9.700989] (-) TimerEvent: {}
+[9.801720] (-) TimerEvent: {}
+[9.865434] (ps2_controller) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[9.901911] (-) TimerEvent: {}
+[10.002618] (-) TimerEvent: {}
+[10.103324] (-) TimerEvent: {}
+[10.194605] (ps2_controller) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)\n'}
+[10.202019] (ps2_controller) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[10.203445] (-) TimerEvent: {}
+[10.208617] (ps2_controller) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[10.303681] (-) TimerEvent: {}
+[10.404464] (-) TimerEvent: {}
+[10.505297] (-) TimerEvent: {}
+[10.545556] (ps2_controller) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[10.546458] (ps2_controller) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[10.605447] (-) TimerEvent: {}
+[10.706217] (-) TimerEvent: {}
+[10.807146] (-) TimerEvent: {}
+[10.849108] (ps2_controller) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed\n'}
+[10.849924] (ps2_controller) StdoutLine: {'line': b'-- Looking for pthread_create in pthreads\n'}
+[10.907334] (-) TimerEvent: {}
+[11.008132] (-) TimerEvent: {}
+[11.108829] (-) TimerEvent: {}
+[11.109860] (ps2_controller) StdoutLine: {'line': b'-- Looking for pthread_create in pthreads - not found\n'}
+[11.110632] (ps2_controller) StdoutLine: {'line': b'-- Looking for pthread_create in pthread\n'}
+[11.209068] (-) TimerEvent: {}
+[11.309988] (-) TimerEvent: {}
+[11.406972] (ps2_controller) StdoutLine: {'line': b'-- Looking for pthread_create in pthread - found\n'}
+[11.410205] (-) TimerEvent: {}
+[11.410952] (ps2_controller) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[11.510373] (-) TimerEvent: {}
+[11.611085] (-) TimerEvent: {}
+[11.711785] (-) TimerEvent: {}
+[11.812513] (-) TimerEvent: {}
+[11.913195] (-) TimerEvent: {}
+[12.013888] (-) TimerEvent: {}
+[12.109648] (ps2_controller) StdoutLine: {'line': b'-- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)\n'}
+[12.114048] (-) TimerEvent: {}
+[12.214749] (-) TimerEvent: {}
+[12.315413] (-) TimerEvent: {}
+[12.416129] (-) TimerEvent: {}
+[12.506870] (ps2_controller) StdoutLine: {'line': b'-- Configuring done\n'}
+[12.516325] (-) TimerEvent: {}
+[12.534881] (ps2_controller) StdoutLine: {'line': b'-- Generating done\n'}
+[12.540234] (ps2_controller) StdoutLine: {'line': b'-- Build files have been written to: /home/pi/ydlidar_ros2_ws/build/ps2_controller\n'}
+[12.571382] (ps2_controller) CommandEnded: {'returncode': 0}
+[12.574004] (ps2_controller) JobProgress: {'identifier': 'ps2_controller', 'progress': 'build'}
+[12.578496] (ps2_controller) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/pi/ydlidar_ros2_ws/build/ps2_controller', '--', '-j4', '-l4'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/ps2_controller', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/ps2_controller'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[12.616562] (-) TimerEvent: {}
+[12.717547] (-) TimerEvent: {}
+[12.755958] (ps2_controller) StdoutLine: {'line': b'\x1b[35m\x1b[1mScanning dependencies of target ps2_controller_node\x1b[0m\n'}
+[12.817748] (-) TimerEvent: {}
+[12.918557] (-) TimerEvent: {}
+[13.019409] (-) TimerEvent: {}
+[13.120264] (-) TimerEvent: {}
+[13.129493] (ps2_controller) StdoutLine: {'line': b'[ 66%] \x1b[32mBuilding CXX object CMakeFiles/ps2_controller_node.dir/src/ps2_controller_node.cpp.o\x1b[0m\n'}
+[13.130514] (ps2_controller) StdoutLine: {'line': b'[ 66%] \x1b[32mBuilding CXX object CMakeFiles/ps2_controller_node.dir/src/ps2_controller.cpp.o\x1b[0m\n'}
+[13.220461] (-) TimerEvent: {}
+[13.321607] (-) TimerEvent: {}
+[13.424100] (-) TimerEvent: {}
+[13.524995] (-) TimerEvent: {}
+[13.625836] (-) TimerEvent: {}
+[13.726600] (-) TimerEvent: {}
+[13.827803] (-) TimerEvent: {}
+[13.928942] (-) TimerEvent: {}
+[14.029680] (-) TimerEvent: {}
+[14.130490] (-) TimerEvent: {}
+[14.231369] (-) TimerEvent: {}
+[14.332130] (-) TimerEvent: {}
+[14.433009] (-) TimerEvent: {}
+[14.534962] (-) TimerEvent: {}
+[14.635704] (-) TimerEvent: {}
+[14.736527] (-) TimerEvent: {}
+[14.837353] (-) TimerEvent: {}
+[14.938099] (-) TimerEvent: {}
+[15.038792] (-) TimerEvent: {}
+[15.139540] (-) TimerEvent: {}
+[15.240446] (-) TimerEvent: {}
+[15.341401] (-) TimerEvent: {}
+[15.442846] (-) TimerEvent: {}
+[15.543674] (-) TimerEvent: {}
+[15.644488] (-) TimerEvent: {}
+[15.745243] (-) TimerEvent: {}
+[15.845969] (-) TimerEvent: {}
+[15.946741] (-) TimerEvent: {}
+[16.047522] (-) TimerEvent: {}
+[16.148269] (-) TimerEvent: {}
+[16.249005] (-) TimerEvent: {}
+[16.349755] (-) TimerEvent: {}
+[16.450518] (-) TimerEvent: {}
+[16.551651] (-) TimerEvent: {}
+[16.653478] (-) TimerEvent: {}
+[16.754222] (-) TimerEvent: {}
+[16.854969] (-) TimerEvent: {}
+[16.955728] (-) TimerEvent: {}
+[17.056528] (-) TimerEvent: {}
+[17.157292] (-) TimerEvent: {}
+[17.258033] (-) TimerEvent: {}
+[17.358796] (-) TimerEvent: {}
+[17.459529] (-) TimerEvent: {}
+[17.560314] (-) TimerEvent: {}
+[17.661055] (-) TimerEvent: {}
+[17.761829] (-) TimerEvent: {}
+[17.862855] (-) TimerEvent: {}
+[17.963939] (-) TimerEvent: {}
+[18.066038] (-) TimerEvent: {}
+[18.167108] (-) TimerEvent: {}
+[18.268071] (-) TimerEvent: {}
+[18.368819] (-) TimerEvent: {}
+[18.469582] (-) TimerEvent: {}
+[18.570379] (-) TimerEvent: {}
+[18.671121] (-) TimerEvent: {}
+[18.771879] (-) TimerEvent: {}
+[18.872635] (-) TimerEvent: {}
+[18.973529] (-) TimerEvent: {}
+[19.074316] (-) TimerEvent: {}
+[19.175059] (-) TimerEvent: {}
+[19.275846] (-) TimerEvent: {}
+[19.376632] (-) TimerEvent: {}
+[19.477488] (-) TimerEvent: {}
+[19.578261] (-) TimerEvent: {}
+[19.678989] (-) TimerEvent: {}
+[19.779736] (-) TimerEvent: {}
+[19.880467] (-) TimerEvent: {}
+[19.981214] (-) TimerEvent: {}
+[20.082351] (-) TimerEvent: {}
+[20.183133] (-) TimerEvent: {}
+[20.283917] (-) TimerEvent: {}
+[20.384669] (-) TimerEvent: {}
+[20.485410] (-) TimerEvent: {}
+[20.586205] (-) TimerEvent: {}
+[20.687004] (-) TimerEvent: {}
+[20.787889] (-) TimerEvent: {}
+[20.888609] (-) TimerEvent: {}
+[20.989364] (-) TimerEvent: {}
+[21.090229] (-) TimerEvent: {}
+[21.190971] (-) TimerEvent: {}
+[21.291714] (-) TimerEvent: {}
+[21.392459] (-) TimerEvent: {}
+[21.493295] (-) TimerEvent: {}
+[21.594113] (-) TimerEvent: {}
+[21.694941] (-) TimerEvent: {}
+[21.795758] (-) TimerEvent: {}
+[21.896485] (-) TimerEvent: {}
+[21.997236] (-) TimerEvent: {}
+[22.098002] (-) TimerEvent: {}
+[22.198815] (-) TimerEvent: {}
+[22.299638] (-) TimerEvent: {}
+[22.400396] (-) TimerEvent: {}
+[22.501254] (-) TimerEvent: {}
+[22.602025] (-) TimerEvent: {}
+[22.703028] (-) TimerEvent: {}
+[22.804065] (-) TimerEvent: {}
+[22.904828] (-) TimerEvent: {}
+[23.005542] (-) TimerEvent: {}
+[23.106314] (-) TimerEvent: {}
+[23.207106] (-) TimerEvent: {}
+[23.307917] (-) TimerEvent: {}
+[23.408611] (-) TimerEvent: {}
+[23.509370] (-) TimerEvent: {}
+[23.610150] (-) TimerEvent: {}
+[23.710921] (-) TimerEvent: {}
+[23.811699] (-) TimerEvent: {}
+[23.912439] (-) TimerEvent: {}
+[24.013170] (-) TimerEvent: {}
+[24.114072] (-) TimerEvent: {}
+[24.215341] (-) TimerEvent: {}
+[24.316135] (-) TimerEvent: {}
+[24.416903] (-) TimerEvent: {}
+[24.517819] (-) TimerEvent: {}
+[24.584568] (ps2_controller) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable ps2_controller_node\x1b[0m\n'}
+[24.618044] (-) TimerEvent: {}
+[24.718876] (-) TimerEvent: {}
+[24.819811] (-) TimerEvent: {}
+[24.920738] (-) TimerEvent: {}
+[25.021669] (-) TimerEvent: {}
+[25.122585] (-) TimerEvent: {}
+[25.223466] (-) TimerEvent: {}
+[25.324317] (-) TimerEvent: {}
+[25.341673] (ps2_controller) StdoutLine: {'line': b'[100%] Built target ps2_controller_node\n'}
+[25.380442] (ps2_controller) CommandEnded: {'returncode': 0}
+[25.424692] (-) TimerEvent: {}
+[25.494478] (ps2_controller) JobProgress: {'identifier': 'ps2_controller', 'progress': 'install'}
+[25.495708] (ps2_controller) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/pi/ydlidar_ros2_ws/build/ps2_controller'], 'cwd': '/home/pi/ydlidar_ros2_ws/build/ps2_controller', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'pi'), ('SSH_CLIENT', '172.30.1.92 58629 22'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/pi'), ('OLDPWD', '/home/pi'), ('SSH_TTY', '/dev/pts/8'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'pi'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '5'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '57'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/pi/ydlidar_ros2_ws/build/ps2_controller'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '172.30.1.92 58629 172.30.1.33 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[25.524926] (-) TimerEvent: {}
+[25.535468] (ps2_controller) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[25.536292] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/lib/ps2_controller/ps2_controller_node\n'}
+[25.541929] (ps2_controller) StdoutLine: {'line': b'-- Set runtime path of "/home/pi/ydlidar_ros2_ws/install/ps2_controller/lib/ps2_controller/ps2_controller_node" to ""\n'}
+[25.542562] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/include/\n'}
+[25.542995] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/include//ps2_controller\n'}
+[25.543379] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/include//ps2_controller/ps2_controller_node.hpp\n'}
+[25.543798] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/include//ps2_controller/ps2_controller.h\n'}
+[25.545158] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ament_index/resource_index/package_run_dependencies/ps2_controller\n'}
+[25.546448] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ament_index/resource_index/parent_prefix_path/ps2_controller\n'}
+[25.547888] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/environment/ament_prefix_path.sh\n'}
+[25.548970] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/environment/ament_prefix_path.dsv\n'}
+[25.550022] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/environment/path.sh\n'}
+[25.551012] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/environment/path.dsv\n'}
+[25.552047] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/local_setup.bash\n'}
+[25.553049] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/local_setup.sh\n'}
+[25.553958] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/local_setup.zsh\n'}
+[25.554861] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/local_setup.dsv\n'}
+[25.555811] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/package.dsv\n'}
+[25.557015] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ament_index/resource_index/packages/ps2_controller\n'}
+[25.558175] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/cmake/ps2_controllerConfig.cmake\n'}
+[25.558978] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/cmake/ps2_controllerConfig-version.cmake\n'}
+[25.560005] (ps2_controller) StdoutLine: {'line': b'-- Installing: /home/pi/ydlidar_ros2_ws/install/ps2_controller/share/ps2_controller/package.xml\n'}
+[25.565298] (ps2_controller) CommandEnded: {'returncode': 0}
+[25.625232] (-) TimerEvent: {}
+[25.726219] (-) TimerEvent: {}
+[25.741520] (ps2_controller) JobEnded: {'identifier': 'ps2_controller', 'rc': 0}
+[25.745114] (-) EventReactorShutdown: {}

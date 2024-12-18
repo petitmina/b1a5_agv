@@ -1,0 +1,52 @@
+[0.166s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake /home/pi/ydlidar_ros2_ws/src/myagv_description -DCMAKE_INSTALL_PREFIX=/home/pi/ydlidar_ros2_ws/install/myagv_description
+[2.865s] -- The C compiler identification is GNU 9.4.0
+[2.874s] -- The CXX compiler identification is GNU 9.4.0
+[2.876s] -- Check for working C compiler: /usr/bin/cc
+[2.877s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.878s] -- Detecting C compiler ABI info
+[2.878s] -- Detecting C compiler ABI info - done
+[2.879s] -- Detecting C compile features
+[2.880s] -- Detecting C compile features - done
+[2.880s] -- Check for working CXX compiler: /usr/bin/c++
+[2.881s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.881s] -- Detecting CXX compiler ABI info
+[3.064s] -- Detecting CXX compiler ABI info - done
+[3.128s] -- Detecting CXX compile features
+[3.131s] -- Detecting CXX compile features - done
+[3.179s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[3.428s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.429s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.167s] -- Found urdf: 2.4.0 (/opt/ros/foxy/share/urdf/cmake)
+[5.714s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[6.315s] -- Added test 'lint_cmake' to check CMake code style
+[6.326s] -- Added test 'xmllint' to check XML markup files
+[6.343s] -- Configuring done
+[6.356s] -- Generating done
+[6.362s] -- Build files have been written to: /home/pi/ydlidar_ros2_ws/build/myagv_description
+[6.396s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake /home/pi/ydlidar_ros2_ws/src/myagv_description -DCMAKE_INSTALL_PREFIX=/home/pi/ydlidar_ros2_ws/install/myagv_description
+[6.399s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_description -- -j4 -l4
+[6.626s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/myagv_description -- -j4 -l4
+[6.820s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/myagv_description': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_description
+[6.862s] -- Install configuration: ""
+[6.863s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/urdf
+[6.864s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/urdf/myAGV.urdf
+[6.865s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes
+[6.866s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_up.dae
+[6.884s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_base.dae
+[7.007s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/meshes/myagv_all.dae
+[7.169s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/package_run_dependencies/myagv_description
+[7.171s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/parent_prefix_path/myagv_description
+[7.173s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.sh
+[7.175s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/ament_prefix_path.dsv
+[7.176s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.sh
+[7.178s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/environment/path.dsv
+[7.180s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.bash
+[7.181s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.sh
+[7.183s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.zsh
+[7.196s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/local_setup.dsv
+[7.197s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.dsv
+[7.199s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/ament_index/resource_index/packages/myagv_description
+[7.201s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig.cmake
+[7.202s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/cmake/myagv_descriptionConfig-version.cmake
+[7.203s] -- Installing: /home/pi/ydlidar_ros2_ws/install/myagv_description/share/myagv_description/package.xml
+[7.230s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/myagv_description' returned '0': CMAKE_PREFIX_PATH=/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/myagv_description

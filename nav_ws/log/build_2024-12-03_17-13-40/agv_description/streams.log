@@ -1,0 +1,32 @@
+[0.182s] Invoking command in '/home/pi/nav_ws/build/agv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_description -- -j4 -l4
+[0.435s] Invoked command in '/home/pi/nav_ws/build/agv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_description -- -j4 -l4
+[0.774s] Invoking command in '/home/pi/nav_ws/build/agv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_description
+[0.828s] -- Install configuration: ""
+[0.831s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes
+[0.836s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes/agv_all.dae
+[0.839s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes/agv_up.dae
+[0.840s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes/agv_base.dae
+[0.840s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/rviz
+[0.841s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/rviz/agv.rviz
+[0.842s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/urdf
+[0.843s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/urdf/agv.urdf
+[0.844s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/launch
+[0.844s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/launch/agv_state_publisher.launch.py
+[0.845s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/launch/agv_description_rviz.launch.py
+[0.846s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/launch/agv_description.launch.py
+[0.846s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/ament_index/resource_index/package_run_dependencies/agv_description
+[0.847s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/ament_index/resource_index/parent_prefix_path/agv_description
+[0.847s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/ament_prefix_path.sh
+[0.849s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/ament_prefix_path.dsv
+[0.851s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/path.sh
+[0.860s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/path.dsv
+[0.865s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.bash
+[0.867s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.sh
+[0.870s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.zsh
+[0.872s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.dsv
+[0.875s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/package.dsv
+[0.876s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/ament_index/resource_index/packages/agv_description
+[0.879s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/cmake/agv_descriptionConfig.cmake
+[0.881s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/cmake/agv_descriptionConfig-version.cmake
+[0.883s] -- Up-to-date: /home/pi/nav_ws/install/agv_description/share/agv_description/package.xml
+[0.886s] Invoked command in '/home/pi/nav_ws/build/agv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_description

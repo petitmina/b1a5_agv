@@ -1,0 +1,2383 @@
+[INFO] [1733886371.276086093] [offset_publisher]: Offset Publisher Node Started.
+[INFO] [1733886371.287869630] [qr_pub]: QR Code Publisher Started
+[INFO] [1733886371.291255505] [offset_publisher]: Published offset: 0
+[INFO] [1733886371.398707708] [offset_publisher]: Published offset: 0
+[INFO] [1733886371.504649758] [offset_publisher]: Published offset: 0
+[INFO] [1733886371.611746538] [offset_publisher]: Published offset: 0
+[INFO] [1733886371.718829170] [offset_publisher]: Published offset: 0
+[INFO] [1733886371.792471805] [offset_publisher]: Published offset: -900
+[INFO] [1733886371.896800722] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.000975900] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.105130485] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.209488068] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.291675658] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.396138111] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.500069198] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.605441938] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.710012094] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.791974352] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.896300158] [offset_publisher]: Published offset: -900
+[INFO] [1733886372.999834231] [offset_publisher]: Published offset: -900
+[INFO] [1733886373.103644022] [offset_publisher]: Published offset: -900
+[INFO] [1733886373.208150918] [offset_publisher]: Published offset: -900
+[INFO] [1733886373.291552477] [offset_publisher]: Published offset: -900
+[INFO] [1733886373.395991078] [offset_publisher]: Published offset: -900
+[INFO] [1733886373.500070459] [offset_publisher]: Published offset: -900
+[INFO] [1733886373.605178497] [offset_publisher]: Published offset: -900
+[INFO] [1733886373.710157926] [offset_publisher]: Published offset: -900
+[INFO] [1733886373.793480634] [offset_publisher]: Published offset: -900
+[INFO] [1733886373.898480914] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.002782201] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.107782240] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.212119155] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.292782406] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.397646391] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.502882150] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.607937669] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.714373231] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.794816485] [offset_publisher]: Published offset: -900
+[INFO] [1733886374.901675673] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.007236984] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.113466528] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.219646926] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.293555722] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.400372076] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.506818749] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.613588270] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.720851638] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.793998591] [offset_publisher]: Published offset: -900
+[INFO] [1733886375.902010100] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.009543855] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.117226348] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.223645538] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.293386319] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.400258227] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.506502734] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.613316217] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.720891545] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.793295152] [offset_publisher]: Published offset: -900
+[INFO] [1733886376.900820054] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.007470983] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.115312548] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.223023874] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.293210983] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.398647589] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.504868670] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.611251916] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.717765253] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.793063998] [offset_publisher]: Published offset: -900
+[INFO] [1733886377.897930462] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.003556678] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.109891516] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.215497120] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.291970336] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.397171833] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.502444755] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.608269857] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.715792536] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.792946263] [offset_publisher]: Published offset: -900
+[INFO] [1733886378.898644385] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.003990029] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.109782612] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.215610306] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.292346982] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.397468997] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.503090897] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.609517493] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.715341057] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.791660126] [offset_publisher]: Published offset: -900
+[INFO] [1733886379.895449784] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.000987517] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.107103912] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.212741237] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.293159173] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.399568120] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.505291240] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.611506708] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.718042802] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.794555664] [offset_publisher]: Published offset: -900
+[INFO] [1733886380.899530291] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.005232838] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.112906809] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.219740807] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.294443538] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.400948298] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.507907388] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.626259572] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.732618278] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.792605316] [offset_publisher]: Published offset: -900
+[INFO] [1733886381.898131086] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.005967259] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.113066291] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.221480440] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.294128209] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.399967512] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.507630557] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.613568025] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.721395291] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.795331917] [offset_publisher]: Published offset: -900
+[INFO] [1733886382.902492338] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.008736729] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.114677216] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.219829062] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.292915844] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.397549547] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.504958760] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.611429075] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.718302720] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.793769646] [offset_publisher]: Published offset: -900
+[INFO] [1733886383.901292414] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.007471694] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.113664159] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.220320176] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.293800769] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.401046094] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.507948367] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.613876779] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.722071466] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.793694576] [offset_publisher]: Published offset: -900
+[INFO] [1733886384.898804422] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.005757695] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.111860030] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.218522749] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.293778584] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.399996270] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.507062449] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.612951379] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.720713087] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.794304438] [offset_publisher]: Published offset: -900
+[INFO] [1733886385.902230590] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.007945577] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.115353918] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.222377892] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.293733949] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.400879626] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.508424762] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.615133443] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.719074409] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.793685176] [offset_publisher]: Published offset: -900
+[INFO] [1733886386.901531087] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.008259193] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.116271546] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.223326982] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.294433152] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.401363275] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.509027205] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.616513156] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.721008894] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.793999565] [offset_publisher]: Published offset: -900
+[INFO] [1733886387.901357924] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.007363833] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.115340167] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.221487575] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.293790418] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.399641883] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.505272722] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.610173196] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.718030754] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.793902341] [offset_publisher]: Published offset: -900
+[INFO] [1733886388.900307319] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.005172906] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.112075249] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.220178174] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.293251584] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.400442999] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.508085261] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.615152974] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.722085910] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.794385567] [offset_publisher]: Published offset: -900
+[INFO] [1733886389.901840443] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.006003128] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.113556428] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.219391188] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.293801418] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.401190071] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.507254404] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.612923407] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.719355662] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.793580411] [offset_publisher]: Published offset: -900
+[INFO] [1733886390.900336034] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.007237266] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.114003072] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.221738944] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.293716826] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.400633890] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.506265486] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.613457196] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.720377445] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.793760332] [offset_publisher]: Published offset: -900
+[INFO] [1733886391.900980487] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.005765664] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.113321500] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.220512524] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.292785903] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.398976844] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.506464161] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.613397781] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.720625916] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.792808184] [offset_publisher]: Published offset: -900
+[INFO] [1733886392.899185383] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.005369102] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.113285489] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.220310810] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.293645474] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.400336373] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.506796755] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.613479506] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.720010036] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.794009638] [offset_publisher]: Published offset: -900
+[INFO] [1733886393.900928498] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.005671989] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.113286897] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.219963110] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.293755955] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.401458213] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.509100213] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.617046266] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.725238668] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.793449066] [offset_publisher]: Published offset: -900
+[INFO] [1733886394.901065048] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.006320738] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.113909552] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.221279314] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.293664393] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.400049886] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.505832496] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.611637606] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.718233486] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.792961876] [offset_publisher]: Published offset: -900
+[INFO] [1733886395.899042446] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.004386875] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.111365047] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.218116962] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.293231330] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.398612628] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.506018536] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.613857885] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.721818214] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.793701076] [offset_publisher]: Published offset: -900
+[INFO] [1733886396.901474351] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.007893639] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.114469481] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.222135164] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.293242366] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.399856763] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.506942915] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.613680977] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.720520557] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.793801646] [offset_publisher]: Published offset: -900
+[INFO] [1733886397.901269516] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.005790192] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.113303579] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.221106390] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.293196379] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.400821654] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.507923305] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.614933660] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.723036764] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.794563277] [offset_publisher]: Published offset: -900
+[INFO] [1733886398.901255746] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.007187446] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.113884266] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.221218210] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.293468493] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.399146491] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.505759849] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.611119257] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.717126140] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.793326162] [offset_publisher]: Published offset: -900
+[INFO] [1733886399.900810549] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.004626342] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.111270330] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.217953150] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.293209459] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.399316970] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.505980383] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.613046032] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.719463040] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.793315807] [offset_publisher]: Published offset: -900
+[INFO] [1733886400.900964896] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.004545542] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.111950929] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.218673970] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.293402914] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.399997771] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.506681535] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.613863794] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.720969072] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.794001532] [offset_publisher]: Published offset: -900
+[INFO] [1733886401.901658657] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.005084323] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.111329239] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.217892910] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.292530447] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.397370876] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.500924651] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.607375065] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.715218150] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.794510586] [offset_publisher]: Published offset: -900
+[INFO] [1733886402.901365996] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.005654190] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.112165584] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.219136862] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.292974702] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.398401440] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.505177257] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.612380385] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.718415950] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.793660758] [offset_publisher]: Published offset: -900
+[INFO] [1733886403.901095625] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.004821138] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.111121015] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.217725000] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.293173398] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.399150796] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.505689819] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.612394729] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.718022686] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.793449696] [offset_publisher]: Published offset: -900
+[INFO] [1733886404.900977764] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.004777887] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.111658480] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.218163280] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.293282718] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.399526539] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.506541297] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.614022347] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.719879987] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.794071823] [offset_publisher]: Published offset: -900
+[INFO] [1733886405.901704723] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.005520531] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.112168218] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.219698618] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.293646271] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.400346031] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.507889284] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.615257241] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.721495395] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.793376697] [offset_publisher]: Published offset: -900
+[INFO] [1733886406.900333104] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.005863320] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.113191555] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.218553532] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.294397017] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.401887288] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.509482076] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.617174937] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.723887419] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.793794055] [offset_publisher]: Published offset: -900
+[INFO] [1733886407.900478704] [offset_publisher]: Published offset: -900
+[INFO] [1733886408.004839616] [offset_publisher]: Published offset: -900
+[INFO] [1733886408.111742429] [offset_publisher]: Published offset: -900
+[INFO] [1733886408.218375541] [offset_publisher]: Published offset: -900
+[INFO] [1733886408.293334701] [offset_publisher]: Published offset: -900
+[INFO] [1733886408.400003072] [offset_publisher]: Published offset: -900
+[INFO] [1733886408.507555804] [offset_publisher]: Published offset: -900
+[INFO] [1733886408.615446552] [offset_publisher]: Published offset: -900
+[INFO] [1733886408.723430132] [offset_publisher]: Published offset: -65
+[INFO] [1733886408.793864318] [offset_publisher]: Published offset: -65
+[INFO] [1733886408.899966212] [offset_publisher]: Published offset: -65
+[INFO] [1733886409.003599686] [offset_publisher]: Published offset: -39
+[INFO] [1733886409.110846903] [offset_publisher]: Published offset: -39
+[INFO] [1733886409.217410663] [offset_publisher]: Published offset: -39
+[INFO] [1733886409.293452830] [offset_publisher]: Published offset: -39
+[INFO] [1733886409.399363208] [offset_publisher]: Published offset: -10
+[INFO] [1733886409.506960180] [offset_publisher]: Published offset: -10
+[INFO] [1733886409.613930251] [offset_publisher]: Published offset: -10
+[INFO] [1733886409.721281558] [offset_publisher]: Published offset: 27
+[INFO] [1733886409.793830075] [offset_publisher]: Published offset: 27
+[INFO] [1733886409.901331289] [offset_publisher]: Published offset: 27
+[INFO] [1733886410.004812208] [offset_publisher]: Published offset: 32
+[INFO] [1733886410.112546345] [offset_publisher]: Published offset: 32
+[INFO] [1733886410.220586497] [offset_publisher]: Published offset: 32
+[INFO] [1733886410.294421723] [offset_publisher]: Published offset: 32
+[INFO] [1733886410.400907539] [offset_publisher]: Published offset: 25
+[INFO] [1733886410.507650519] [offset_publisher]: Published offset: 25
+[INFO] [1733886410.614223556] [offset_publisher]: Published offset: 25
+[INFO] [1733886410.721124182] [offset_publisher]: Published offset: 7
+[INFO] [1733886410.793814049] [offset_publisher]: Published offset: 7
+[INFO] [1733886410.901270929] [offset_publisher]: Published offset: 7
+[INFO] [1733886411.005271213] [offset_publisher]: Published offset: 7
+[INFO] [1733886411.112751370] [offset_publisher]: Published offset: 7
+[INFO] [1733886411.219789698] [offset_publisher]: Published offset: 7
+[INFO] [1733886411.293699701] [offset_publisher]: Published offset: 7
+[INFO] [1733886411.400696103] [offset_publisher]: Published offset: 7
+[INFO] [1733886411.508197445] [offset_publisher]: Published offset: 7
+[INFO] [1733886411.616037858] [offset_publisher]: Published offset: 7
+[INFO] [1733886411.723272166] [offset_publisher]: Published offset: 18
+[INFO] [1733886411.793210300] [offset_publisher]: Published offset: 18
+[INFO] [1733886411.901010380] [offset_publisher]: Published offset: 18
+[INFO] [1733886412.004676629] [offset_publisher]: Published offset: 9
+[INFO] [1733886412.112858779] [offset_publisher]: Published offset: 9
+[INFO] [1733886412.220483230] [offset_publisher]: Published offset: 9
+[INFO] [1733886412.293739702] [offset_publisher]: Published offset: 9
+[INFO] [1733886412.399896816] [offset_publisher]: Published offset: 9
+[INFO] [1733886412.506690071] [offset_publisher]: Published offset: 9
+[INFO] [1733886412.613415143] [offset_publisher]: Published offset: 9
+[INFO] [1733886412.719253556] [offset_publisher]: Published offset: 9
+[INFO] [1733886412.792494898] [offset_publisher]: Published offset: 9
+[INFO] [1733886412.899972665] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.003925578] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.109316569] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.216035751] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.293292183] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.400059698] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.507597279] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.615320266] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.723280806] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.794813201] [offset_publisher]: Published offset: 9
+[INFO] [1733886413.901118127] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.005539832] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.112291309] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.220018313] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.293263562] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.400008502] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.506676850] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.613350810] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.720362821] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.793292647] [offset_publisher]: Published offset: 9
+[INFO] [1733886414.900790617] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.004662529] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.111570949] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.218904716] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.293794855] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.399453120] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.506170041] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.613077238] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.720231433] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.792981316] [offset_publisher]: Published offset: 9
+[INFO] [1733886415.899533313] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.003320540] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.110086701] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.216738567] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.293880313] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.399988777] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.507080361] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.614592718] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.722200093] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.792992086] [offset_publisher]: Published offset: 9
+[INFO] [1733886416.898956792] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.004789796] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.112319726] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.218754056] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.293512715] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.400318671] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.507192348] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.613902157] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.721303774] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.792959204] [offset_publisher]: Published offset: 9
+[INFO] [1733886417.899953658] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.003790458] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.110433915] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.218004178] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.293349589] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.398910020] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.505544551] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.613099851] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.719527940] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.793293608] [offset_publisher]: Published offset: 9
+[INFO] [1733886418.900154729] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.004401580] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.111030259] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.217506514] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.293748916] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.399806248] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.506354539] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.614014319] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.720720256] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.793675450] [offset_publisher]: Published offset: 9
+[INFO] [1733886419.900397887] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.004253371] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.110694440] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.217289655] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.293490057] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.399609111] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.506200049] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.612518082] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.718492248] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.794440634] [offset_publisher]: Published offset: 9
+[INFO] [1733886420.901826509] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.005466179] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.111740101] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.219146715] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.293184490] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.399334098] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.506326661] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.613007727] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.718859209] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.793613180] [offset_publisher]: Published offset: 9
+[INFO] [1733886421.900601021] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.004290135] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.110634055] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.217712468] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.294451938] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.399919182] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.507325389] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.612400211] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.719577086] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.791556658] [offset_publisher]: Published offset: 9
+[INFO] [1733886422.898962365] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.003099862] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.109603188] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.216378993] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.294419079] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.400579019] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.508206093] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.616157034] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.722146661] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.793631960] [offset_publisher]: Published offset: 9
+[INFO] [1733886423.901352311] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.004957554] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.110913940] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.218035759] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.293213521] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.399315887] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.506541039] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.614427721] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.721780945] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.793289613] [offset_publisher]: Published offset: 9
+[INFO] [1733886424.900718652] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.004517355] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.109780488] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.217103545] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.294387916] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.400617632] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.508670108] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.616624918] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.723916661] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.793733809] [offset_publisher]: Published offset: 9
+[INFO] [1733886425.901711119] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.005324398] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.111963350] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.219276777] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.294400724] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.401444820] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.508652656] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.616383616] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.723050623] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.793734484] [offset_publisher]: Published offset: 9
+[INFO] [1733886426.900805562] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.004701189] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.112481796] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.220129534] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.294493877] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.401184143] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.509629558] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.617538108] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.724771517] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.793712672] [offset_publisher]: Published offset: 9
+[INFO] [1733886427.901357336] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.005860216] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.113884987] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.222388253] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.293318555] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.399609694] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.507330153] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.614825744] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.723548304] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.793018269] [offset_publisher]: Published offset: 9
+[INFO] [1733886428.900485989] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.005302514] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.111996093] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.217802552] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.292415095] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.397001047] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.502867579] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.606955536] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.711930873] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.792803632] [offset_publisher]: Published offset: 9
+[INFO] [1733886429.898282779] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.002705807] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.106765486] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.212123115] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.293111984] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.397785749] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.503144712] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.607587812] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.711904174] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.791365317] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.895072444] [offset_publisher]: Published offset: 9
+[INFO] [1733886430.998973013] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.104534769] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.208185081] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.293684831] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.397828805] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.502178314] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.605916828] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.709715768] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.791323242] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.894659538] [offset_publisher]: Published offset: 9
+[INFO] [1733886431.999701966] [offset_publisher]: Published offset: 9
+[INFO] [1733886432.103684904] [offset_publisher]: Published offset: 9
+[INFO] [1733886432.207989468] [offset_publisher]: Published offset: 9
+[INFO] [1733886432.291668902] [offset_publisher]: Published offset: 9
+[INFO] [1733886432.396544368] [offset_publisher]: Published offset: 9
+[INFO] [1733886432.500500806] [offset_publisher]: Published offset: 9
+[INFO] [1733886432.604758852] [offset_publisher]: Published offset: 9
+[INFO] [1733886432.709642077] [offset_publisher]: Published offset: 9
+[INFO] [1733886432.791963024] [offset_publisher]: Published offset: 9
+[INFO] [1733886432.898781267] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.005212755] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.110070868] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.214218063] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.292163665] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.397361608] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.502111667] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.605717441] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.709798174] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.792072251] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.895899115] [offset_publisher]: Published offset: 9
+[INFO] [1733886433.999842793] [offset_publisher]: Published offset: 9
+[INFO] [1733886434.104838183] [offset_publisher]: Published offset: 9
+[INFO] [1733886434.208785823] [offset_publisher]: Published offset: 9
+[INFO] [1733886434.293324063] [offset_publisher]: Published offset: 9
+[INFO] [1733886434.400214230] [offset_publisher]: Published offset: 9
+[INFO] [1733886434.504913067] [offset_publisher]: Published offset: 9
+[INFO] [1733886434.610806725] [offset_publisher]: Published offset: 9
+[INFO] [1733886434.717829539] [offset_publisher]: Published offset: 9
+[INFO] [1733886434.793214721] [offset_publisher]: Published offset: 9
+[INFO] [1733886434.899106990] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.004471042] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.111066471] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.216950333] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.291836593] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.398502317] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.505154875] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.610992200] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.716493176] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.791842561] [offset_publisher]: Published offset: 9
+[INFO] [1733886435.899291444] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.003138382] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.107365389] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.212685644] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.294274986] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.401382816] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.509978335] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.617929454] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.724218385] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.794001806] [offset_publisher]: Published offset: 9
+[INFO] [1733886436.902232792] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.007664935] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.114563970] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.223456616] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.292902485] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.399612096] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.506844313] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.614858319] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.723260321] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.793484090] [offset_publisher]: Published offset: 9
+[INFO] [1733886437.901500614] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.006350022] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.114280009] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.222118887] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.294280395] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.400735230] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.508346147] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.615739233] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.721553593] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.793603417] [offset_publisher]: Published offset: 9
+[INFO] [1733886438.901352925] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.006672346] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.114560093] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.222769799] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.293696004] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.400010100] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.507178020] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.614906084] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.721447251] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.793084245] [offset_publisher]: Published offset: 9
+[INFO] [1733886439.897357750] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.002771632] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.107795370] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.214918086] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.294805832] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.401096020] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.508514715] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.616076761] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.722483021] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.794051498] [offset_publisher]: Published offset: 9
+[INFO] [1733886440.902228148] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.007961138] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.116158102] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.221685334] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.293312995] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.400373674] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.508124865] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.615494338] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.722222225] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.794153845] [offset_publisher]: Published offset: 9
+[INFO] [1733886441.901843574] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.007933282] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.115874508] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.223914177] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.293515616] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.399755007] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.507673863] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.615625811] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.721759073] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.793012089] [offset_publisher]: Published offset: 9
+[INFO] [1733886442.901261256] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.006181308] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.113834647] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.222865398] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.293694751] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.400742707] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.508200511] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.615763537] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.722129815] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.793394700] [offset_publisher]: Published offset: 9
+[INFO] [1733886443.901431424] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.006673824] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.114205609] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.222272628] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.293538828] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.400488340] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.507649739] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.614967563] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.723102396] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.793891731] [offset_publisher]: Published offset: 9
+[INFO] [1733886444.902028620] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.007971049] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.116351473] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.224533065] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.293615434] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.400755222] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.509573381] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.618347282] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.725690031] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.793509042] [offset_publisher]: Published offset: 9
+[INFO] [1733886445.901508173] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.007323270] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.116013060] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.225190456] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.293958087] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.401012597] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.508891747] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.616284921] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.723803704] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.793560770] [offset_publisher]: Published offset: 9
+[INFO] [1733886446.901630603] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.008321987] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.116206377] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.223944009] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.293266949] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.399130711] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.507003009] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.614420422] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.721623504] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.793485863] [offset_publisher]: Published offset: 9
+[INFO] [1733886447.901564325] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.007386921] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.114679890] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.222887406] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.294500638] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.401700164] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.507681183] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.615299038] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.721783831] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.794045760] [offset_publisher]: Published offset: 9
+[INFO] [1733886448.902197072] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.006879734] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.115347599] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.221578245] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.294043486] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.400566537] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.508699201] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.615173863] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.721058346] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.792339173] [offset_publisher]: Published offset: 9
+[INFO] [1733886449.929726139] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.036042265] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.142620055] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.249777580] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.292972946] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.399857437] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.507905490] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.615160755] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.720984645] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.794005399] [offset_publisher]: Published offset: 9
+[INFO] [1733886450.901430829] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.006006639] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.114406781] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.221714026] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.294765465] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.401700991] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.509739933] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.617380323] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.723821484] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.793370662] [offset_publisher]: Published offset: 9
+[INFO] [1733886451.900809831] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.005508436] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.114185389] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.223368874] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.293854060] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.400148074] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.508659844] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.616494768] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.723988567] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.793317857] [offset_publisher]: Published offset: 9
+[INFO] [1733886452.901297965] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.005658609] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.113977288] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.220935850] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.293835271] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.400093081] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.508234539] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.616141555] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.722002480] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.793140270] [offset_publisher]: Published offset: 9
+[INFO] [1733886453.901215895] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.005237209] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.113727626] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.221889935] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.293955864] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.401112368] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.509680895] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.618384143] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.726488675] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.794286220] [offset_publisher]: Published offset: 9
+[INFO] [1733886454.901304244] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.006429046] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.115123868] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.223708598] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.293870268] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.400105354] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.507853241] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.616111493] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.721992750] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.793014837] [offset_publisher]: Published offset: 9
+[INFO] [1733886455.900171452] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.005321623] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.113974389] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.221407927] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.293884758] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.400203584] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.507404920] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.615060992] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.723007265] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.793107027] [offset_publisher]: Published offset: 9
+[INFO] [1733886456.900958875] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.006961908] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.114383186] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.222530104] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.293607782] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.400334159] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.508407375] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.616047428] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.723067913] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.793500691] [offset_publisher]: Published offset: 9
+[INFO] [1733886457.901763478] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.006853724] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.114900865] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.223955551] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.293419152] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.399434036] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.507193328] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.614911028] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.722370194] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.793142930] [offset_publisher]: Published offset: 9
+[INFO] [1733886458.901450457] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.006274594] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.114602768] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.221498217] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.293642346] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.399820154] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.507722185] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.614779409] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.721974521] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.793279011] [offset_publisher]: Published offset: 9
+[INFO] [1733886459.901563982] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.006275286] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.112362890] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.219279078] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.295218336] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.401661399] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.509838760] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.617035372] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.723165123] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.793884526] [offset_publisher]: Published offset: 9
+[INFO] [1733886460.901378579] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.007136075] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.113616378] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.222497232] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.294043700] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.400721612] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.508892435] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.616283655] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.722504146] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.793520712] [offset_publisher]: Published offset: 9
+[INFO] [1733886461.901240447] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.005047833] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.113342506] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.221120981] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.293544699] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.400124168] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.506993059] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.614235798] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.720713564] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.794142550] [offset_publisher]: Published offset: 9
+[INFO] [1733886462.901655712] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.006926175] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.115351476] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.223826888] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.293287543] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.399224350] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.507269674] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.614808113] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.720530405] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.792682292] [offset_publisher]: Published offset: 9
+[INFO] [1733886463.900120492] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.004763516] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.113180279] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.220802643] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.293662671] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.400602357] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.508265332] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.616018306] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.722531773] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.793989926] [offset_publisher]: Published offset: 9
+[INFO] [1733886464.902226636] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.007114231] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.114300192] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.221360024] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.293838018] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.400385800] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.508269253] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.615891765] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.722401269] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.793488555] [offset_publisher]: Published offset: 9
+[INFO] [1733886465.902104668] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.007034929] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.113956132] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.221431645] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.293289960] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.400588141] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.508038172] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.615058226] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.721077253] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.793528229] [offset_publisher]: Published offset: 9
+[INFO] [1733886466.901867011] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.006360998] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.113074313] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.220321902] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.293563591] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.400410295] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.508217563] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.616352401] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.722580685] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.793504176] [offset_publisher]: Published offset: 9
+[INFO] [1733886467.901971659] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.006483516] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.114733038] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.222109884] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.294064641] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.400821715] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.507970211] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.615480241] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.722065280] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.793597079] [offset_publisher]: Published offset: 9
+[INFO] [1733886468.901787453] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.006216347] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.114920161] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.223431716] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.294285151] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.402272176] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.510117794] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.618002967] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.723327259] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.792041160] [offset_publisher]: Published offset: 9
+[INFO] [1733886469.898688605] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.003117665] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.108729213] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.213241919] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.291657611] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.396088911] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.500819245] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.608612123] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.715459176] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.794006830] [offset_publisher]: Published offset: 9
+[INFO] [1733886470.900742496] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.004869966] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.112535288] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.219816633] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.293875479] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.401809225] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.510244744] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.618813057] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.726397344] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.794423565] [offset_publisher]: Published offset: 9
+[INFO] [1733886471.902553495] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.007557381] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.115460312] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.223355205] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.294068918] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.401903646] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.510066648] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.617689137] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.723586311] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.793066499] [offset_publisher]: Published offset: 9
+[INFO] [1733886472.901274890] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.005424784] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.113063643] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.221436309] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.294233889] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.400895314] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.508276082] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.616156679] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.722617328] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.793094432] [offset_publisher]: Published offset: 9
+[INFO] [1733886473.900124593] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.004094229] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.111401239] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.219543425] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.294989905] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.401523756] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.508697433] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.616945137] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.723109436] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.794142330] [offset_publisher]: Published offset: 9
+[INFO] [1733886474.901341582] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.005816972] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.113421571] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.221774810] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.293736176] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.400503042] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.507890532] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.617127151] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.723806037] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.793545870] [offset_publisher]: Published offset: 9
+[INFO] [1733886475.901492280] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.006099187] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.113852450] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.222374631] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.294162869] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.401099141] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.508730350] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.617043496] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.723677789] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.793496473] [offset_publisher]: Published offset: 9
+[INFO] [1733886476.901703065] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.006334878] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.113227390] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.220694526] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.295167662] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.402494337] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.511026332] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.618640448] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.725058465] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.793539366] [offset_publisher]: Published offset: 9
+[INFO] [1733886477.901466423] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.005793257] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.113845831] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.221431373] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.293739253] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.401507700] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.510617263] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.619966972] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.726174343] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.793131777] [offset_publisher]: Published offset: 9
+[INFO] [1733886478.900228953] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.004498195] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.113411907] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.221987216] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.294317021] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.399465846] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.505191610] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.613113462] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.720491061] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.793072586] [offset_publisher]: Published offset: 9
+[INFO] [1733886479.900974531] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.005207569] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.113697378] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.220663888] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.294277328] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.401675463] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.509129745] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.615870720] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.721509725] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.795128498] [offset_publisher]: Published offset: 9
+[INFO] [1733886480.903212515] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.007562885] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.114021269] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.222433616] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.294227629] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.401404544] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.510563197] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.619634870] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.726162588] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.793490961] [offset_publisher]: Published offset: 9
+[INFO] [1733886481.901442831] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.005492925] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.113255333] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.221860492] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.294178963] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.400526107] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.508413829] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.616498493] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.722142792] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.794217673] [offset_publisher]: Published offset: 9
+[INFO] [1733886482.902301430] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.006426634] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.114514297] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.222027763] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.294226716] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.401719922] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.510848945] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.618815517] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.725459362] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.794208424] [offset_publisher]: Published offset: 9
+[INFO] [1733886483.902317347] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.006814491] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.114854839] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.222465007] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.294142687] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.401137028] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.509437966] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.616849099] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.723011522] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.794074097] [offset_publisher]: Published offset: 9
+[INFO] [1733886484.902161649] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.006303703] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.113588966] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.221433279] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.293808026] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.400513221] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.509001787] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.615982867] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.723644275] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.794162929] [offset_publisher]: Published offset: 9
+[INFO] [1733886485.900991493] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.005439711] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.113784166] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.221094706] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.294030392] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.401355709] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.510103012] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.618432745] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.724287337] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.794106480] [offset_publisher]: Published offset: 9
+[INFO] [1733886486.901680573] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.005559481] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.113545162] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.221568823] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.293417630] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.400829132] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.508791942] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.616475145] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.723007933] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.793096980] [offset_publisher]: Published offset: 9
+[INFO] [1733886487.899147328] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.003315418] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.111539299] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.219500795] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.293881724] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.400863044] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.509477255] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.617962041] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.725192525] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.793942122] [offset_publisher]: Published offset: 9
+[INFO] [1733886488.901352197] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.005324992] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.113311209] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.220934373] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.293730522] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.402328917] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.511329050] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.620168017] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.727469518] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.793319052] [offset_publisher]: Published offset: 9
+[INFO] [1733886489.900322260] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.004557311] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.112299474] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.219862009] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.293435835] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.400197637] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.508460388] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.616730156] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.723805974] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.794060982] [offset_publisher]: Published offset: 9
+[INFO] [1733886490.901330872] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.005192944] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.113345455] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.222198235] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.293572323] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.400529920] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.509422682] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.617642561] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.724385678] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.793204756] [offset_publisher]: Published offset: 9
+[INFO] [1733886491.900723605] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.005103561] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.113478180] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.220664107] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.293780436] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.400688014] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.507817645] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.616007561] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.723310968] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.793283663] [offset_publisher]: Published offset: 9
+[INFO] [1733886492.899909558] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.004188163] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.110694800] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.218660848] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.293785842] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.400429699] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.508779502] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.616314092] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.722573768] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.793577489] [offset_publisher]: Published offset: 9
+[INFO] [1733886493.901052672] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.005217629] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.112279982] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.220557729] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.294257423] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.402205174] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.510053722] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.617355591] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.724540499] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.793398982] [offset_publisher]: Published offset: 9
+[INFO] [1733886494.899189385] [offset_publisher]: Published offset: 9
+[INFO] [1733886495.003044733] [offset_publisher]: Published offset: 9
+[INFO] [1733886495.110373101] [offset_publisher]: Published offset: 9
+[INFO] [1733886495.217464064] [offset_publisher]: Published offset: 9
+[INFO] [1733886495.293901025] [offset_publisher]: Published offset: 9
+[INFO] [1733886495.400930285] [offset_publisher]: Published offset: 9
+[INFO] [1733886495.508940350] [offset_publisher]: Published offset: 9
+[INFO] [1733886495.617728741] [offset_publisher]: Published offset: 9
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+Calculated offset: -65
+Calculated offset: -39
+Calculated offset: -10
+Calculated offset: 27
+Calculated offset: 32
+Calculated offset: 25
+Calculated offset: 7
+Calculated offset: 7
+Calculated offset: 7
+Calculated offset: 18
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+[INFO] [1733886495.724459485] [offset_publisher]: Published offset: 9
+[INFO] [1733886495.793144303] [offset_publisher]: Published offset: 9
+[INFO] [1733886495.901129035] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.005509970] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.112504341] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.220520424] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.294283356] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.400522272] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.509280199] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.617495039] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.723922305] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.793479447] [offset_publisher]: Published offset: 9
+[INFO] [1733886496.901426364] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.006078111] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.112966223] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.221391727] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.294295112] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.400952801] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.508831996] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.617612255] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.724286833] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.794198230] [offset_publisher]: Published offset: 9
+[INFO] [1733886497.902504365] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.008277896] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.115557485] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.223179145] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.293775683] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.399206161] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.507127374] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.614549813] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.720489250] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.793532837] [offset_publisher]: Published offset: 9
+[INFO] [1733886498.901202589] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.005130397] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.111983379] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.219193654] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.293752225] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.398951724] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.507548058] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.616209577] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.721696018] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.793516913] [offset_publisher]: Published offset: 9
+[INFO] [1733886499.898977428] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.004191834] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.110960816] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.218872343] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.293710411] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.401576493] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.511066558] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.619841057] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.726940795] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.793882926] [offset_publisher]: Published offset: 9
+[INFO] [1733886500.902007246] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.007392761] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.114977734] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.222922982] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.294562656] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.400608404] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.509631919] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.618438583] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.724475739] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.794071749] [offset_publisher]: Published offset: 9
+[INFO] [1733886501.901914202] [offset_publisher]: Published offset: 9
+[INFO] [1733886502.006327393] [offset_publisher]: Published offset: 11
+[INFO] [1733886502.114869356] [offset_publisher]: Published offset: 11
+[INFO] [1733886502.222817288] [offset_publisher]: Published offset: 11
+[INFO] [1733886502.293936800] [offset_publisher]: Published offset: 11
+[INFO] [1733886502.400840114] [offset_publisher]: Published offset: 21
+[INFO] [1733886502.507974832] [offset_publisher]: Published offset: 21
+[INFO] [1733886502.615820524] [offset_publisher]: Published offset: 21
+[INFO] [1733886502.722184769] [offset_publisher]: Published offset: 28
+[INFO] [1733886502.793916294] [offset_publisher]: Published offset: 28
+[INFO] [1733886502.901626469] [offset_publisher]: Published offset: 28
+[INFO] [1733886503.008874649] [offset_publisher]: Published offset: 33
+[INFO] [1733886503.116082699] [offset_publisher]: Published offset: 33
+[INFO] [1733886503.224766216] [offset_publisher]: Published offset: 33
+[INFO] [1733886503.293591752] [offset_publisher]: Published offset: 33
+[INFO] [1733886503.399490056] [offset_publisher]: Published offset: 39
+[INFO] [1733886503.507805725] [offset_publisher]: Published offset: 39
+[INFO] [1733886503.615097330] [offset_publisher]: Published offset: 39
+[INFO] [1733886503.720642101] [offset_publisher]: Published offset: 46
+[INFO] [1733886503.793561076] [offset_publisher]: Published offset: 46
+[INFO] [1733886503.900600776] [offset_publisher]: Published offset: 46
+[INFO] [1733886504.005755422] [offset_publisher]: Published offset: 53
+[INFO] [1733886504.113991294] [offset_publisher]: Published offset: 53
+[INFO] [1733886504.221382231] [offset_publisher]: Published offset: 53
+[INFO] [1733886504.294053338] [offset_publisher]: Published offset: 53
+[INFO] [1733886504.400473951] [offset_publisher]: Published offset: 33
+[INFO] [1733886504.509140449] [offset_publisher]: Published offset: 33
+[INFO] [1733886504.617135528] [offset_publisher]: Published offset: 33
+[INFO] [1733886504.723148997] [offset_publisher]: Published offset: -26
+[INFO] [1733886504.793515684] [offset_publisher]: Published offset: -26
+[INFO] [1733886504.901959980] [offset_publisher]: Published offset: -26
+[INFO] [1733886505.011114454] [offset_publisher]: Published offset: -30
+[INFO] [1733886505.117538715] [offset_publisher]: Published offset: -30
+[INFO] [1733886505.226581282] [offset_publisher]: Published offset: -30
+[INFO] [1733886505.294113535] [offset_publisher]: Published offset: -30
+[INFO] [1733886505.400844329] [offset_publisher]: Published offset: -40
+[INFO] [1733886505.509470123] [offset_publisher]: Published offset: -40
+[INFO] [1733886505.616859652] [offset_publisher]: Published offset: -40
+[INFO] [1733886505.724331310] [offset_publisher]: Published offset: -47
+[INFO] [1733886505.793192993] [offset_publisher]: Published offset: -47
+[INFO] [1733886505.899603365] [offset_publisher]: Published offset: -47
+[INFO] [1733886506.005299652] [offset_publisher]: Published offset: -53
+[INFO] [1733886506.113777706] [offset_publisher]: Published offset: -53
+[INFO] [1733886506.220985403] [offset_publisher]: Published offset: -53
+[INFO] [1733886506.294881922] [offset_publisher]: Published offset: -53
+[INFO] [1733886506.401944176] [offset_publisher]: Published offset: -56
+[INFO] [1733886506.509532388] [offset_publisher]: Published offset: -56
+[INFO] [1733886506.617817333] [offset_publisher]: Published offset: -56
+[INFO] [1733886506.725549135] [offset_publisher]: Published offset: -13
+[INFO] [1733886506.793533216] [offset_publisher]: Published offset: -13
+[INFO] [1733886506.901688532] [offset_publisher]: Published offset: -13
+[INFO] [1733886507.006796084] [offset_publisher]: Published offset: -1
+[INFO] [1733886507.114061187] [offset_publisher]: Published offset: -1
+[INFO] [1733886507.221594936] [offset_publisher]: Published offset: -1
+[INFO] [1733886507.294224820] [offset_publisher]: Published offset: -1
+[INFO] [1733886507.400700672] [offset_publisher]: Published offset: -1
+[INFO] [1733886507.508653101] [offset_publisher]: Published offset: -1
+[INFO] [1733886507.616443958] [offset_publisher]: Published offset: -1
+[INFO] [1733886507.723980818] [offset_publisher]: Published offset: -900
+[INFO] [1733886507.793731750] [offset_publisher]: Published offset: -900
+[INFO] [1733886507.902292710] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.010017864] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.117844850] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.225556337] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.293385178] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.399599143] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.507313926] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.614474289] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.721036121] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.794995454] [offset_publisher]: Published offset: -900
+[INFO] [1733886508.903498025] [offset_publisher]: Published offset: -900
+[INFO] [1733886509.010918200] [offset_publisher]: Published offset: 26
+[INFO] [1733886509.117920009] [offset_publisher]: Published offset: 26
+[INFO] [1733886509.227811491] [offset_publisher]: Published offset: 26
+[INFO] [1733886509.294161439] [offset_publisher]: Published offset: 26
+[INFO] [1733886509.401280413] [offset_publisher]: Published offset: 25
+[INFO] [1733886509.509804447] [offset_publisher]: Published offset: 25
+[INFO] [1733886509.618141056] [offset_publisher]: Published offset: 25
+[INFO] [1733886509.725846080] [offset_publisher]: Published offset: 41
+[INFO] [1733886509.793921769] [offset_publisher]: Published offset: 41
+[INFO] [1733886509.901913383] [offset_publisher]: Published offset: 41
+[INFO] [1733886510.007901887] [offset_publisher]: Published offset: 50
+[INFO] [1733886510.115043637] [offset_publisher]: Published offset: 50
+[INFO] [1733886510.222680457] [offset_publisher]: Published offset: 50
+[INFO] [1733886510.293420453] [offset_publisher]: Published offset: 50
+[INFO] [1733886510.400630388] [offset_publisher]: Published offset: -900
+[INFO] [1733886510.509179884] [offset_publisher]: Published offset: -900
+[INFO] [1733886510.617425031] [offset_publisher]: Published offset: -900
+[INFO] [1733886510.724393061] [offset_publisher]: Published offset: -900
+[INFO] [1733886510.793757497] [offset_publisher]: Published offset: -900
+[INFO] [1733886510.902090291] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.008510031] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.116483809] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.224252553] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.295539783] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.404301239] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.512114187] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.620679293] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.727911135] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.793564312] [offset_publisher]: Published offset: -900
+[INFO] [1733886511.900712469] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.005888481] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.113664002] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.221265747] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.293841445] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.400838548] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.508142000] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.616349128] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.722999197] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.794110022] [offset_publisher]: Published offset: -900
+[INFO] [1733886512.902698960] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.006990425] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.114119137] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.221436533] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.293643475] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.400783761] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.508610707] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.616794631] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.722912650] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.793447350] [offset_publisher]: Published offset: -900
+[INFO] [1733886513.901369851] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.006362881] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.113855127] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.220902506] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.293632479] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.401670312] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.508872263] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.617183667] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.723824773] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.794006124] [offset_publisher]: Published offset: -900
+[INFO] [1733886514.900501232] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.006253476] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.113426057] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.221138133] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.294112974] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.399882977] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.507885569] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.616176212] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.723396330] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.793317962] [offset_publisher]: Published offset: -900
+[INFO] [1733886515.901508884] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.008024028] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.115367718] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.222749500] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.294095099] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.399819917] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.507556862] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.615353658] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.721546046] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.793652506] [offset_publisher]: Published offset: -900
+[INFO] [1733886516.901857113] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.007616949] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.115785464] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.223580704] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.293696556] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.399616778] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.507435945] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.614609821] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.721160500] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.793509865] [offset_publisher]: Published offset: -900
+[INFO] [1733886517.902348447] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.007385957] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.113678749] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.221590210] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.293669893] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.401576428] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.509135966] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.617129445] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.723812011] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.793755660] [offset_publisher]: Published offset: -900
+[INFO] [1733886518.901682566] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.007404568] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.114092467] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.221331082] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.294802306] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.402874431] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.510223731] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.617993841] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.725865487] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.794134023] [offset_publisher]: Published offset: -900
+[INFO] [1733886519.902637737] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.008948880] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.114031592] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.221378354] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.295116703] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.403060793] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.511157603] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.619939831] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.727270112] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.793351559] [offset_publisher]: Published offset: -900
+[INFO] [1733886520.901901920] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.007484275] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.113839732] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.221752524] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.294115166] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.401100116] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.508113141] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.615792862] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.723245863] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.793602692] [offset_publisher]: Published offset: -900
+[INFO] [1733886521.901925869] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.006903636] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.112595063] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.220717668] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.293600748] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.399544190] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.506528455] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.614118528] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.720873055] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.793502286] [offset_publisher]: Published offset: -900
+[INFO] [1733886522.901959980] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.007300298] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.114084713] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.222118059] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.293710078] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.400045849] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.508156453] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.615913080] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.724575623] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.793526447] [offset_publisher]: Published offset: -900
+[INFO] [1733886523.902219472] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.006747632] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.113096106] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.221889240] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.293678516] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.400047397] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.507931855] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.615486854] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.723084426] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.794134173] [offset_publisher]: Published offset: -900
+[INFO] [1733886524.903437560] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.009221985] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.117107424] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.225031640] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.294992731] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.402465638] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.510851331] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.618831528] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.725823921] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.794078955] [offset_publisher]: Published offset: -900
+[INFO] [1733886525.901989672] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.006118798] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.113210671] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.221007129] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.293358269] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.400179626] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.507426904] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.614666868] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.722117089] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.793613941] [offset_publisher]: Published offset: -900
+[INFO] [1733886526.901054736] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.005918780] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.113195076] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.221260939] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.293742225] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.401342777] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.508840552] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.616433253] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.723738734] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.794207874] [offset_publisher]: Published offset: -900
+[INFO] [1733886527.902529771] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.006861283] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.113748101] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.221593761] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.294178324] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.401075068] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.508366178] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.615786695] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.723946592] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.794233438] [offset_publisher]: Published offset: -900
+[INFO] [1733886528.902583389] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.008029371] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.115447128] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.222432666] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.293692280] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.400745410] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.507574840] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.614480583] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.720975942] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.794161239] [offset_publisher]: Published offset: -900
+[INFO] [1733886529.903041425] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.008988234] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.116975188] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.225900743] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.293097546] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.401653680] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.507598210] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.614657267] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.722895700] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.793333710] [offset_publisher]: Published offset: -900
+[INFO] [1733886530.902128803] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.007249084] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.113894384] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.220562963] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.293645278] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.401812304] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.509909404] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.617937043] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.725008172] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.792688044] [offset_publisher]: Published offset: -900
+[INFO] [1733886531.900413426] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.005073637] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.110762373] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.217956630] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.294183709] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.400747677] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.508816499] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.616853915] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.723330106] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.793535858] [offset_publisher]: Published offset: -900
+[INFO] [1733886532.901810216] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.006949754] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.112986153] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.221013808] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.294271936] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.402045447] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.509001706] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.616463849] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.724575837] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.794066579] [offset_publisher]: Published offset: -900
+[INFO] [1733886533.901916588] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.006370781] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.112147404] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.217683326] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.293703740] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.400067005] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.507530499] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.615791430] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.724331283] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.794121910] [offset_publisher]: Published offset: -900
+[INFO] [1733886534.901844105] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.007695376] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.114004474] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.221876464] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.295377515] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.401112897] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.508008934] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.616696860] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.723562101] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.794173829] [offset_publisher]: Published offset: -900
+[INFO] [1733886535.901937246] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.005604798] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.113115661] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.220838874] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.295826650] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.402264339] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.509692444] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.618265630] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.726530633] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.793699101] [offset_publisher]: Published offset: -900
+[INFO] [1733886536.902427785] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.008173426] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.115458884] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.222666546] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.294229376] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.400868174] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.507403324] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.616706798] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.724070088] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.793567143] [offset_publisher]: Published offset: -900
+[INFO] [1733886537.901224449] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.006780369] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.112238012] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.220162574] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.293894732] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.401547074] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.509503302] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.617922822] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.725391611] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.793496439] [offset_publisher]: Published offset: -900
+[INFO] [1733886538.903074224] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.009855853] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.115820286] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.224731115] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.293720415] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.401860845] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.509674777] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.617955724] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.725021275] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.793402989] [offset_publisher]: Published offset: -900
+[INFO] [1733886539.898880094] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.004492254] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.109154126] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.217005465] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.293555946] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.401707171] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.509360864] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.617694291] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.723982479] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.794376190] [offset_publisher]: Published offset: -900
+[INFO] [1733886540.902417380] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.007974187] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.114924369] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.222528210] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.294292795] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.401872452] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.508990002] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.617403760] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.723388267] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.793567498] [offset_publisher]: Published offset: -900
+[INFO] [1733886541.902525455] [offset_publisher]: Published offset: -900
+[INFO] [1733886542.007947652] [offset_publisher]: Published offset: -900
+[INFO] [1733886542.114870834] [offset_publisher]: Published offset: -900
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 9
+Calculated offset: 11
+Calculated offset: 21
+Calculated offset: 28
+Calculated offset: 33
+Calculated offset: 39
+Calculated offset: 46
+Calculated offset: 53
+Calculated offset: 33
+Calculated offset: -26
+Calculated offset: -30
+Calculated offset: -40
+Calculated offset: -47
+Calculated offset: -53
+Calculated offset: -56
+Calculated offset: -13
+Calculated offset: -1
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+Calculated offset: 26
+Calculated offset: 25
+Calculated offset: 41
+Calculated offset: 50
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+Traceback (most recent call last):
+  File "/home/pi/finalagv_ros2_ws/install/agv/lib/agv/pub4", line 11, in <module>
+    load_entry_point('agv==0.0.0', 'console_scripts', 'pub4')()
+  File "/home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv/pub4.py", line 207, in main
+    video_thread.join()
+  File "/usr/lib/python3.8/threading.py", line 1011, in join
+    self._wait_for_tstate_lock()
+  File "/usr/lib/python3.8/threading.py", line 1027, in _wait_for_tstate_lock
+    elif lock.acquire(block, timeout):
+KeyboardInterrupt
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!
+no find line
+offset is 900, stop!!!

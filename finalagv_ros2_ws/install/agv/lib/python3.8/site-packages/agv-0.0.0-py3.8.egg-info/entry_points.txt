@@ -1,0 +1,10 @@
+[console_scripts]
+pub = agv.pub:main
+pub2 = agv.pub2:main
+pub4 = agv.pub4:main
+return = agv.return_sub:main
+sub = agv.sub:main
+sub2 = agv.sub2:main
+tel = agv.tel:main
+udp = agv.udp:main
+

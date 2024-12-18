@@ -1,0 +1,11 @@
+{
+  "package_name": "agv_interfaces",
+  "non_idl_tuples": [
+    "/home/pi/nav_ws/src/agv_interfaces:srv/Battery.srv",
+    "/home/pi/nav_ws/src/agv_interfaces:srv/Calg.srv",
+    "/home/pi/nav_ws/src/agv_interfaces:srv/Color.srv",
+    "/home/pi/nav_ws/src/agv_interfaces:srv/Onoff.srv",
+    "/home/pi/nav_ws/src/agv_interfaces:srv/ResetOdom.srv",
+    "/home/pi/nav_ws/src/agv_interfaces:srv/SaveColor.srv"
+  ]
+}

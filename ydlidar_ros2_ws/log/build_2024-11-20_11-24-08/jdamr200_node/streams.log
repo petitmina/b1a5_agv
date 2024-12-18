@@ -1,0 +1,24 @@
+[5.309s] Invoking command in '/home/pi/ydlidar_ros2_ws/src/jdamr200_node': PYTHONPATH=/home/pi/ydlidar_ros2_ws/build/jdamr200_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/jdamr200_node build --build-base /home/pi/ydlidar_ros2_ws/build/jdamr200_node/build install --record /home/pi/ydlidar_ros2_ws/build/jdamr200_node/install.log --single-version-externally-managed install_data
+[6.408s] running egg_info
+[6.410s] writing ../../build/jdamr200_node/jdamr200_node.egg-info/PKG-INFO
+[6.411s] writing dependency_links to ../../build/jdamr200_node/jdamr200_node.egg-info/dependency_links.txt
+[6.412s] writing entry points to ../../build/jdamr200_node/jdamr200_node.egg-info/entry_points.txt
+[6.413s] writing requirements to ../../build/jdamr200_node/jdamr200_node.egg-info/requires.txt
+[6.414s] writing top-level names to ../../build/jdamr200_node/jdamr200_node.egg-info/top_level.txt
+[6.556s] reading manifest file '../../build/jdamr200_node/jdamr200_node.egg-info/SOURCES.txt'
+[6.559s] writing manifest file '../../build/jdamr200_node/jdamr200_node.egg-info/SOURCES.txt'
+[6.560s] running build
+[6.561s] running build_py
+[6.561s] copying jdamr200_node/jdamr200_node.py -> /home/pi/ydlidar_ros2_ws/build/jdamr200_node/build/lib/jdamr200_node
+[6.562s] running install
+[6.566s] running install_lib
+[6.571s] copying /home/pi/ydlidar_ros2_ws/build/jdamr200_node/build/lib/jdamr200_node/jdamr200_node.py -> /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/jdamr200_node
+[6.574s] byte-compiling /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/jdamr200_node/jdamr200_node.py to jdamr200_node.cpython-38.pyc
+[6.585s] running install_data
+[6.586s] running install_egg_info
+[6.593s] removing '/home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/jdamr200_node-0.0.0-py3.8.egg-info' (and everything under it)
+[6.595s] Copying ../../build/jdamr200_node/jdamr200_node.egg-info to /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/jdamr200_node-0.0.0-py3.8.egg-info
+[6.600s] running install_scripts
+[6.685s] Installing jdamr200_node script to /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/jdamr200_node
+[6.688s] writing list of installed files to '/home/pi/ydlidar_ros2_ws/build/jdamr200_node/install.log'
+[6.856s] Invoked command in '/home/pi/ydlidar_ros2_ws/src/jdamr200_node' returned '0': PYTHONPATH=/home/pi/ydlidar_ros2_ws/build/jdamr200_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/jdamr200_node build --build-base /home/pi/ydlidar_ros2_ws/build/jdamr200_node/build install --record /home/pi/ydlidar_ros2_ws/build/jdamr200_node/install.log --single-version-externally-managed install_data

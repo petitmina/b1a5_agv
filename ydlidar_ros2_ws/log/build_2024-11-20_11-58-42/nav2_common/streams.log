@@ -1,0 +1,47 @@
+[0.224s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/nav2_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake /home/pi/ydlidar_ros2_ws/src/navigation2/nav2_common -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pi/ydlidar_ros2_ws/install/nav2_common
+[2.080s] -- Found ament_cmake_core: 0.9.12 (/opt/ros/foxy/share/ament_cmake_core/cmake)
+[2.081s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.081s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.082s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.083s] -- Found ament_cmake_python: 0.9.12 (/opt/ros/foxy/share/ament_cmake_python/cmake)
+[2.604s] -- Configuring done
+[2.620s] -- Generating done
+[2.626s] -- Build files have been written to: /home/pi/ydlidar_ros2_ws/build/nav2_common
+[2.636s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake /home/pi/ydlidar_ros2_ws/src/navigation2/nav2_common -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pi/ydlidar_ros2_ws/install/nav2_common
+[2.650s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/nav2_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/nav2_common -- -j4 -l4
+[2.888s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --build /home/pi/ydlidar_ros2_ws/build/nav2_common -- -j4 -l4
+[3.415s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/nav2_common': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/nav2_common
+[3.482s] -- Install configuration: ""
+[3.486s] -- Execute custom install script
+[3.490s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/environment/pythonpath.sh
+[3.690s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/environment/pythonpath.dsv
+[3.772s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/__init__.py
+[3.825s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/__init__.py
+[3.905s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/has_node_params.py
+[3.975s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/replace_string.py
+[4.061s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/rewritten_yaml.py
+[4.135s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/ament_index/resource_index/package_run_dependencies/nav2_common
+[4.207s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/ament_index/resource_index/parent_prefix_path/nav2_common
+[4.268s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/environment/ament_prefix_path.sh
+[4.334s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/environment/ament_prefix_path.dsv
+[4.381s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/environment/path.sh
+[4.432s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/environment/path.dsv
+[4.489s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/local_setup.bash
+[4.570s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/local_setup.sh
+[4.630s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/local_setup.zsh
+[4.684s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/local_setup.dsv
+[4.736s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/package.dsv
+[4.797s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/ament_index/resource_index/packages/nav2_common
+[4.850s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/cmake/nav2_common-extras.cmake
+[4.909s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/cmake/nav2_commonConfig.cmake
+[4.966s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/cmake/nav2_commonConfig-version.cmake
+[5.019s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/package.xml
+[5.067s] -- Symlinking: /home/pi/ydlidar_ros2_ws/install/nav2_common/share/nav2_common/cmake/nav2_package.cmake
+[5.404s] Listing '/home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common'...
+[5.410s] Compiling '/home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/__init__.py'...
+[5.415s] Listing '/home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch'...
+[5.423s] Compiling '/home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/__init__.py'...
+[5.425s] Compiling '/home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/has_node_params.py'...
+[5.427s] Compiling '/home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/replace_string.py'...
+[5.430s] Compiling '/home/pi/ydlidar_ros2_ws/install/nav2_common/lib/python3.8/site-packages/nav2_common/launch/rewritten_yaml.py'...
+[5.466s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/nav2_common' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy /usr/bin/cmake --install /home/pi/ydlidar_ros2_ws/build/nav2_common

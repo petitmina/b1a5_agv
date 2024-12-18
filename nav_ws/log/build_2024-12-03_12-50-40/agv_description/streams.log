@@ -1,0 +1,55 @@
+[0.203s] Invoking command in '/home/pi/nav_ws/build/agv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake /home/pi/nav_ws/src/agv_description -DCMAKE_INSTALL_PREFIX=/home/pi/nav_ws/install/agv_description
+[0.574s] -- The C compiler identification is GNU 9.4.0
+[0.959s] -- The CXX compiler identification is GNU 9.4.0
+[1.019s] -- Check for working C compiler: /usr/bin/cc
+[1.519s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.533s] -- Detecting C compiler ABI info
+[2.014s] -- Detecting C compiler ABI info - done
+[2.092s] -- Detecting C compile features
+[2.094s] -- Detecting C compile features - done
+[2.107s] -- Check for working CXX compiler: /usr/bin/c++
+[2.634s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.643s] -- Detecting CXX compiler ABI info
+[3.131s] -- Detecting CXX compiler ABI info - done
+[3.222s] -- Detecting CXX compile features
+[3.225s] -- Detecting CXX compile features - done
+[3.249s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[3.456s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.457s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.093s] -- Found urdf: 2.4.0 (/opt/ros/foxy/share/urdf/cmake)
+[5.944s] -- Configuring done
+[5.966s] -- Generating done
+[5.971s] -- Build files have been written to: /home/pi/nav_ws/build/agv_description
+[6.013s] Invoked command in '/home/pi/nav_ws/build/agv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake /home/pi/nav_ws/src/agv_description -DCMAKE_INSTALL_PREFIX=/home/pi/nav_ws/install/agv_description
+[6.016s] Invoking command in '/home/pi/nav_ws/build/agv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_description -- -j4 -l4
+[6.250s] Invoked command in '/home/pi/nav_ws/build/agv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_description -- -j4 -l4
+[6.378s] Invoking command in '/home/pi/nav_ws/build/agv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_description
+[6.441s] -- Install configuration: ""
+[6.442s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes
+[6.442s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes/agv_all.dae
+[6.559s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes/agv_up.dae
+[6.585s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/meshes/agv_base.dae
+[6.683s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/rviz
+[6.684s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/rviz/agv.rviz
+[6.685s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/urdf
+[6.685s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/urdf/agv.urdf
+[6.686s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/launch
+[6.686s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/launch/agv_state_publisher.launch.py
+[6.687s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/launch/agv_description_rviz.launch.py
+[6.688s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/launch/agv_description.launch.py
+[6.694s] -- Installing: /home/pi/nav_ws/install/agv_description/share/ament_index/resource_index/package_run_dependencies/agv_description
+[6.699s] -- Installing: /home/pi/nav_ws/install/agv_description/share/ament_index/resource_index/parent_prefix_path/agv_description
+[6.700s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/ament_prefix_path.sh
+[6.702s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/ament_prefix_path.dsv
+[6.703s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/path.sh
+[6.704s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/environment/path.dsv
+[6.708s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.bash
+[6.709s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.sh
+[6.710s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.zsh
+[6.719s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/local_setup.dsv
+[6.720s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/package.dsv
+[6.723s] -- Installing: /home/pi/nav_ws/install/agv_description/share/ament_index/resource_index/packages/agv_description
+[6.724s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/cmake/agv_descriptionConfig.cmake
+[6.733s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/cmake/agv_descriptionConfig-version.cmake
+[6.734s] -- Installing: /home/pi/nav_ws/install/agv_description/share/agv_description/package.xml
+[6.735s] Invoked command in '/home/pi/nav_ws/build/agv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_description

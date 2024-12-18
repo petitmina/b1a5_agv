@@ -1,0 +1,144 @@
+[0.000000] (-) TimerEvent: {}
+[0.011027] (agv) JobQueued: {'identifier': 'agv', 'dependencies': OrderedDict()}
+[0.020665] (agv) JobStarted: {'identifier': 'agv'}
+[0.097181] (-) TimerEvent: {}
+[0.199507] (-) TimerEvent: {}
+[0.300743] (-) TimerEvent: {}
+[0.401479] (-) TimerEvent: {}
+[0.502832] (-) TimerEvent: {}
+[0.604287] (-) TimerEvent: {}
+[0.704998] (-) TimerEvent: {}
+[0.805777] (-) TimerEvent: {}
+[0.906514] (-) TimerEvent: {}
+[1.007412] (-) TimerEvent: {}
+[1.108633] (-) TimerEvent: {}
+[1.209392] (-) TimerEvent: {}
+[1.310347] (-) TimerEvent: {}
+[1.411300] (-) TimerEvent: {}
+[1.512184] (-) TimerEvent: {}
+[1.613133] (-) TimerEvent: {}
+[1.714012] (-) TimerEvent: {}
+[1.814745] (-) TimerEvent: {}
+[1.915435] (-) TimerEvent: {}
+[2.016197] (-) TimerEvent: {}
+[2.117128] (-) TimerEvent: {}
+[2.218217] (-) TimerEvent: {}
+[2.319021] (-) TimerEvent: {}
+[2.420035] (-) TimerEvent: {}
+[2.520836] (-) TimerEvent: {}
+[2.622127] (-) TimerEvent: {}
+[2.723306] (-) TimerEvent: {}
+[2.824251] (-) TimerEvent: {}
+[2.925027] (-) TimerEvent: {}
+[3.026053] (-) TimerEvent: {}
+[3.126815] (-) TimerEvent: {}
+[3.227608] (-) TimerEvent: {}
+[3.328552] (-) TimerEvent: {}
+[3.429410] (-) TimerEvent: {}
+[3.530391] (-) TimerEvent: {}
+[3.631202] (-) TimerEvent: {}
+[3.732294] (-) TimerEvent: {}
+[3.833204] (-) TimerEvent: {}
+[3.934162] (-) TimerEvent: {}
+[4.034950] (-) TimerEvent: {}
+[4.135727] (-) TimerEvent: {}
+[4.236429] (-) TimerEvent: {}
+[4.337167] (-) TimerEvent: {}
+[4.438294] (-) TimerEvent: {}
+[4.539463] (-) TimerEvent: {}
+[4.640245] (-) TimerEvent: {}
+[4.741011] (-) TimerEvent: {}
+[4.841916] (-) TimerEvent: {}
+[4.942600] (-) TimerEvent: {}
+[5.043628] (-) TimerEvent: {}
+[5.144770] (-) TimerEvent: {}
+[5.246532] (-) TimerEvent: {}
+[5.347338] (-) TimerEvent: {}
+[5.448163] (-) TimerEvent: {}
+[5.549009] (-) TimerEvent: {}
+[5.649791] (-) TimerEvent: {}
+[5.750795] (-) TimerEvent: {}
+[5.851817] (-) TimerEvent: {}
+[5.952595] (-) TimerEvent: {}
+[6.053571] (-) TimerEvent: {}
+[6.154594] (-) TimerEvent: {}
+[6.171914] (agv) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/agv', 'build', '--build-base', '/home/pi/finalagv_ros2_ws/build/agv/build', 'install', '--record', '/home/pi/finalagv_ros2_ws/build/agv/install.log', '--install-scripts', '$base/lib/agv', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/pi/finalagv_ros2_ws/src/agv', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'pi', 'SSH_CLIENT': '172.30.1.77 33970 22', 'LC_TIME': 'ko_KR.UTF-8', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/pi', 'OLDPWD': '/home/pi', 'SSH_TTY': '/dev/pts/11', 'ROS_PYTHON_VERSION': '3', 'LC_MONETARY': 'ko_KR.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/pi/finalagv_ros2_ws/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'pi', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '13', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/pi/.local/bin:/opt/ros/foxy/bin:/home/pi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'LC_ADDRESS': 'ko_KR.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': 'localhost:16.0', 'LANG': 'en_US.UTF-8', 'LC_TELEPHONE': 'ko_KR.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'ROS_DOMAIN_ID': '57', 'AMENT_PREFIX_PATH': '/home/pi/finalagv_ros2_ws/install/agv:/opt/ros/foxy', 'SHELL': '/bin/bash', 'LC_NAME': 'ko_KR.UTF-8', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'ko_KR.UTF-8', 'LC_IDENTIFICATION': 'ko_KR.UTF-8', 'PWD': '/home/pi/finalagv_ros2_ws/build/agv', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '172.30.1.77 33970 172.30.1.33 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/pi/finalagv_ros2_ws/build/agv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages:/home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'LC_NUMERIC': 'ko_KR.UTF-8', 'LC_PAPER': 'ko_KR.UTF-8', 'COLCON': '1'}, 'shell': False}
+[6.262096] (-) TimerEvent: {}
+[6.371963] (-) TimerEvent: {}
+[6.473351] (-) TimerEvent: {}
+[6.574684] (-) TimerEvent: {}
+[6.675596] (-) TimerEvent: {}
+[6.776321] (-) TimerEvent: {}
+[6.877245] (-) TimerEvent: {}
+[6.978015] (-) TimerEvent: {}
+[7.078660] (-) TimerEvent: {}
+[7.179590] (-) TimerEvent: {}
+[7.280516] (-) TimerEvent: {}
+[7.381392] (-) TimerEvent: {}
+[7.482189] (-) TimerEvent: {}
+[7.582990] (-) TimerEvent: {}
+[7.683859] (-) TimerEvent: {}
+[7.784729] (-) TimerEvent: {}
+[7.885480] (-) TimerEvent: {}
+[7.986227] (-) TimerEvent: {}
+[8.086929] (-) TimerEvent: {}
+[8.187980] (-) TimerEvent: {}
+[8.289066] (-) TimerEvent: {}
+[8.389998] (-) TimerEvent: {}
+[8.454347] (agv) StdoutLine: {'line': b'running egg_info\n'}
+[8.457168] (agv) StdoutLine: {'line': b'writing ../../build/agv/agv.egg-info/PKG-INFO\n'}
+[8.459341] (agv) StdoutLine: {'line': b'writing dependency_links to ../../build/agv/agv.egg-info/dependency_links.txt\n'}
+[8.460638] (agv) StdoutLine: {'line': b'writing entry points to ../../build/agv/agv.egg-info/entry_points.txt\n'}
+[8.461761] (agv) StdoutLine: {'line': b'writing requirements to ../../build/agv/agv.egg-info/requires.txt\n'}
+[8.462683] (agv) StdoutLine: {'line': b'writing top-level names to ../../build/agv/agv.egg-info/top_level.txt\n'}
+[8.490146] (-) TimerEvent: {}
+[8.590843] (-) TimerEvent: {}
+[8.656349] (agv) StdoutLine: {'line': b"reading manifest file '../../build/agv/agv.egg-info/SOURCES.txt'\n"}
+[8.662663] (agv) StdoutLine: {'line': b"writing manifest file '../../build/agv/agv.egg-info/SOURCES.txt'\n"}
+[8.663601] (agv) StdoutLine: {'line': b'running build\n'}
+[8.664412] (agv) StdoutLine: {'line': b'running build_py\n'}
+[8.674398] (agv) StdoutLine: {'line': b'copying agv/pub4.py -> /home/pi/finalagv_ros2_ws/build/agv/build/lib/agv\n'}
+[8.677029] (agv) StdoutLine: {'line': b'running install\n'}
+[8.682570] (agv) StdoutLine: {'line': b'running install_lib\n'}
+[8.690991] (-) TimerEvent: {}
+[8.693004] (agv) StdoutLine: {'line': b'copying /home/pi/finalagv_ros2_ws/build/agv/build/lib/agv/pub4.py -> /home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv\n'}
+[8.698894] (agv) StdoutLine: {'line': b'byte-compiling /home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv/pub4.py to pub4.cpython-38.pyc\n'}
+[8.710951] (agv) StdoutLine: {'line': b'running install_data\n'}
+[8.717926] (agv) StdoutLine: {'line': b'running install_egg_info\n'}
+[8.730476] (agv) StdoutLine: {'line': b"removing '/home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[8.733200] (agv) StdoutLine: {'line': b'Copying ../../build/agv/agv.egg-info to /home/pi/finalagv_ros2_ws/install/agv/lib/python3.8/site-packages/agv-0.0.0-py3.8.egg-info\n'}
+[8.739022] (agv) StdoutLine: {'line': b'running install_scripts\n'}
+[8.791207] (-) TimerEvent: {}
+[8.892226] (-) TimerEvent: {}
+[8.940747] (agv) StdoutLine: {'line': b'Installing pub script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[8.959327] (agv) StdoutLine: {'line': b'Installing pub2 script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[8.960313] (agv) StdoutLine: {'line': b'Installing pub4 script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[8.961231] (agv) StdoutLine: {'line': b'Installing return script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[8.962284] (agv) StdoutLine: {'line': b'Installing sub script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[8.963823] (agv) StdoutLine: {'line': b'Installing sub2 script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[8.964817] (agv) StdoutLine: {'line': b'Installing tel script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[8.965791] (agv) StdoutLine: {'line': b'Installing udp script to /home/pi/finalagv_ros2_ws/install/agv/lib/agv\n'}
+[8.969090] (agv) StdoutLine: {'line': b"writing list of installed files to '/home/pi/finalagv_ros2_ws/build/agv/install.log'\n"}
+[8.992589] (-) TimerEvent: {}
+[9.094338] (-) TimerEvent: {}
+[9.195559] (-) TimerEvent: {}
+[9.315965] (-) TimerEvent: {}
+[9.338761] (agv) CommandEnded: {'returncode': 0}
+[9.416142] (-) TimerEvent: {}
+[9.516900] (-) TimerEvent: {}
+[9.617899] (-) TimerEvent: {}
+[9.718930] (-) TimerEvent: {}
+[9.820688] (-) TimerEvent: {}
+[9.922252] (-) TimerEvent: {}
+[10.023449] (-) TimerEvent: {}
+[10.124668] (-) TimerEvent: {}
+[10.256195] (-) TimerEvent: {}
+[10.434139] (-) TimerEvent: {}
+[10.535269] (-) TimerEvent: {}
+[10.642036] (-) TimerEvent: {}
+[10.953392] (-) TimerEvent: {}
+[11.054727] (-) TimerEvent: {}
+[11.167853] (-) TimerEvent: {}
+[11.285865] (-) TimerEvent: {}
+[11.298149] (agv) JobEnded: {'identifier': 'agv', 'rc': 0}
+[11.314810] (-) EventReactorShutdown: {}

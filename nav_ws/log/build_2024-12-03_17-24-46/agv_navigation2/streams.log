@@ -1,0 +1,33 @@
+[0.225s] Invoking command in '/home/pi/nav_ws/build/agv_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_navigation2 -- -j4 -l4
+[0.582s] Invoked command in '/home/pi/nav_ws/build/agv_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_navigation2 -- -j4 -l4
+[1.041s] Invoking command in '/home/pi/nav_ws/build/agv_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_navigation2
+[1.205s] -- Install configuration: ""
+[1.206s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/launch
+[1.207s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/launch/navigation2.launch.py
+[1.208s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/launch/navigation2_rviz.launch.py
+[1.209s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/map
+[1.210s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/map/test7_map.yaml
+[1.210s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/map/turtlebot3_world.pgm
+[1.211s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/map/turtlebot3_world.yaml
+[1.212s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/map/test7_map.pgm
+[1.213s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/param
+[1.213s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/param/follow_point_bt.xml
+[1.213s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/param/agv.yaml
+[1.214s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/rviz
+[1.214s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/rviz/tb3_navigation2.rviz
+[1.216s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/ament_index/resource_index/package_run_dependencies/agv_navigation2
+[1.221s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/ament_index/resource_index/parent_prefix_path/agv_navigation2
+[1.221s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/environment/ament_prefix_path.sh
+[1.222s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/environment/ament_prefix_path.dsv
+[1.227s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/environment/path.sh
+[1.228s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/environment/path.dsv
+[1.237s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/local_setup.bash
+[1.240s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/local_setup.sh
+[1.241s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/local_setup.zsh
+[1.242s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/local_setup.dsv
+[1.243s] -- Installing: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/package.dsv
+[1.244s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/ament_index/resource_index/packages/agv_navigation2
+[1.252s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/cmake/agv_navigation2Config.cmake
+[1.254s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/cmake/agv_navigation2Config-version.cmake
+[1.257s] -- Up-to-date: /home/pi/nav_ws/install/agv_navigation2/share/agv_navigation2/package.xml
+[1.363s] Invoked command in '/home/pi/nav_ws/build/agv_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_navigation2

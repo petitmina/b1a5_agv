@@ -1,0 +1,28 @@
+[0.171s] Invoking command in '/home/pi/nav_ws/build/agv_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_cartographer -- -j4 -l4
+[0.569s] Invoked command in '/home/pi/nav_ws/build/agv_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --build /home/pi/nav_ws/build/agv_cartographer -- -j4 -l4
+[0.882s] Invoking command in '/home/pi/nav_ws/build/agv_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_cartographer
+[0.986s] -- Install configuration: ""
+[0.987s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/config
+[0.990s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/config/agv_lidar.lua
+[0.991s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/launch
+[0.991s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/launch/cartographer_rviz.launch.py
+[0.992s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/launch/cartographer.launch.py
+[0.992s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/launch/occupancy_grid.launch.py
+[0.993s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/rviz
+[0.994s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/rviz/agv_cartographer.rviz
+[0.997s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/ament_index/resource_index/package_run_dependencies/agv_cartographer
+[0.997s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/ament_index/resource_index/parent_prefix_path/agv_cartographer
+[0.998s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/environment/ament_prefix_path.sh
+[0.999s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/environment/ament_prefix_path.dsv
+[0.999s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/environment/path.sh
+[1.001s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/environment/path.dsv
+[1.006s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/local_setup.bash
+[1.007s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/local_setup.sh
+[1.008s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/local_setup.zsh
+[1.009s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/local_setup.dsv
+[1.011s] -- Installing: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/package.dsv
+[1.012s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/ament_index/resource_index/packages/agv_cartographer
+[1.013s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/cmake/agv_cartographerConfig.cmake
+[1.014s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/cmake/agv_cartographerConfig-version.cmake
+[1.014s] -- Up-to-date: /home/pi/nav_ws/install/agv_cartographer/share/agv_cartographer/package.xml
+[1.140s] Invoked command in '/home/pi/nav_ws/build/agv_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/ydlidar_ros2_ws/install/nav2_gazebo_spawner:/home/pi/ydlidar_ros2_ws/install/jdamr200_teleop:/home/pi/ydlidar_ros2_ws/install/jdamr200_node:/home/pi/nav_ws/install/agv_bringup:/opt/ros/foxy /usr/bin/cmake --install /home/pi/nav_ws/build/agv_cartographer

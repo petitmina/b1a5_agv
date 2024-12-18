@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/ydlidar_ros2_ws/src/ps2_controller/include/ps2_controller/ps2_controller.h
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+errno.h
+-
+linux/input.h
+-
+linux/joystick.h
+-
+
+/home/pi/ydlidar_ros2_ws/src/ps2_controller/src/ps2_controller.cpp
+ps2_controller/ps2_controller.h
+/home/pi/ydlidar_ros2_ws/src/ps2_controller/src/ps2_controller/ps2_controller.h
+unistd.h
+-
+fcntl.h
+-
+stdio.h
+-
+linux/joystick.h
+-
+string.h
+-
+

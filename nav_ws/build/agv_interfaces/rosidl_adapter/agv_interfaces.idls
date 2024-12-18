@@ -1,0 +1,6 @@
+/home/pi/nav_ws/build/agv_interfaces/rosidl_adapter/agv_interfaces:srv/Battery.idl
+/home/pi/nav_ws/build/agv_interfaces/rosidl_adapter/agv_interfaces:srv/Calg.idl
+/home/pi/nav_ws/build/agv_interfaces/rosidl_adapter/agv_interfaces:srv/Color.idl
+/home/pi/nav_ws/build/agv_interfaces/rosidl_adapter/agv_interfaces:srv/Onoff.idl
+/home/pi/nav_ws/build/agv_interfaces/rosidl_adapter/agv_interfaces:srv/ResetOdom.idl
+/home/pi/nav_ws/build/agv_interfaces/rosidl_adapter/agv_interfaces:srv/SaveColor.idl

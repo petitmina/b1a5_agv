@@ -1,0 +1,22 @@
+[5.303s] Invoking command in '/home/pi/nav_ws/src/agv_bringup': CMAKE_PREFIX_PATH=/home/pi/nav_ws/install/agv_interfaces:/home/pi/nav_ws/install/agv_description:/home/pi/nav_ws/install/ydlidar_ros2_driver:/home/pi/nav_ws/install/agv:/home/pi/nav_ws/install/agv_navigation2:/home/pi/nav_ws/install/agv_cartographer PYTHONPATH=/home/pi/nav_ws/build/agv_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/agv_bringup build --build-base /home/pi/nav_ws/build/agv_bringup/build install --record /home/pi/nav_ws/build/agv_bringup/install.log --install-scripts $base/lib/omo_r1mini_bringup --single-version-externally-managed install_data
+[6.294s] running egg_info
+[6.296s] writing ../../build/agv_bringup/agv_bringup.egg-info/PKG-INFO
+[6.298s] writing dependency_links to ../../build/agv_bringup/agv_bringup.egg-info/dependency_links.txt
+[6.299s] writing entry points to ../../build/agv_bringup/agv_bringup.egg-info/entry_points.txt
+[6.300s] writing requirements to ../../build/agv_bringup/agv_bringup.egg-info/requires.txt
+[6.300s] writing top-level names to ../../build/agv_bringup/agv_bringup.egg-info/top_level.txt
+[6.428s] reading manifest file '../../build/agv_bringup/agv_bringup.egg-info/SOURCES.txt'
+[6.433s] writing manifest file '../../build/agv_bringup/agv_bringup.egg-info/SOURCES.txt'
+[6.433s] running build
+[6.434s] running build_py
+[6.438s] running install
+[6.441s] running install_lib
+[6.452s] running install_data
+[6.454s] running install_egg_info
+[6.460s] removing '/home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup-0.0.1-py3.8.egg-info' (and everything under it)
+[6.462s] Copying ../../build/agv_bringup/agv_bringup.egg-info to /home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages/agv_bringup-0.0.1-py3.8.egg-info
+[6.467s] running install_scripts
+[6.529s] Installing agv_mcu_node script to /home/pi/nav_ws/install/agv_bringup/lib/omo_r1mini_bringup
+[6.530s] Installing agv_motor_setting_node script to /home/pi/nav_ws/install/agv_bringup/lib/omo_r1mini_bringup
+[6.532s] writing list of installed files to '/home/pi/nav_ws/build/agv_bringup/install.log'
+[6.627s] Invoked command in '/home/pi/nav_ws/src/agv_bringup' returned '0': CMAKE_PREFIX_PATH=/home/pi/nav_ws/install/agv_interfaces:/home/pi/nav_ws/install/agv_description:/home/pi/nav_ws/install/ydlidar_ros2_driver:/home/pi/nav_ws/install/agv:/home/pi/nav_ws/install/agv_navigation2:/home/pi/nav_ws/install/agv_cartographer PYTHONPATH=/home/pi/nav_ws/build/agv_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/nav_ws/install/agv_bringup/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/agv_bringup build --build-base /home/pi/nav_ws/build/agv_bringup/build install --record /home/pi/nav_ws/build/agv_bringup/install.log --install-scripts $base/lib/omo_r1mini_bringup --single-version-externally-managed install_data

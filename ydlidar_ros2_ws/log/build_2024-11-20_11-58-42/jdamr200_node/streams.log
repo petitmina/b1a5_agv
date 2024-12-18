@@ -1,0 +1,20 @@
+[5.413s] Invoking command in '/home/pi/ydlidar_ros2_ws/build/jdamr200_node': PYTHONPATH=/home/pi/ydlidar_ros2_ws/build/jdamr200_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pi/ydlidar_ros2_ws/build/jdamr200_node/build --no-deps symlink_data --force
+[7.046s] running develop
+[8.078s] running egg_info
+[8.079s] writing jdamr200_node.egg-info/PKG-INFO
+[8.080s] writing dependency_links to jdamr200_node.egg-info/dependency_links.txt
+[8.081s] writing entry points to jdamr200_node.egg-info/entry_points.txt
+[8.083s] writing requirements to jdamr200_node.egg-info/requires.txt
+[8.083s] writing top-level names to jdamr200_node.egg-info/top_level.txt
+[8.280s] reading manifest file 'jdamr200_node.egg-info/SOURCES.txt'
+[8.285s] writing manifest file 'jdamr200_node.egg-info/SOURCES.txt'
+[8.610s] running build_ext
+[8.614s] Creating /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/site.py
+[8.628s] Creating /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages/jdamr200-node.egg-link (link to .)
+[8.634s] Installing jdamr200_node script to /home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/jdamr200_node
+[8.637s] 
+[8.638s] Installed /home/pi/ydlidar_ros2_ws/build/jdamr200_node
+[8.640s] running symlink_data
+[8.642s] symbolically linking /home/pi/ydlidar_ros2_ws/build/jdamr200_node/resource/jdamr200_node -> /home/pi/ydlidar_ros2_ws/install/jdamr200_node/share/ament_index/resource_index/packages
+[8.644s] symbolically linking /home/pi/ydlidar_ros2_ws/build/jdamr200_node/package.xml -> /home/pi/ydlidar_ros2_ws/install/jdamr200_node/share/jdamr200_node
+[8.924s] Invoked command in '/home/pi/ydlidar_ros2_ws/build/jdamr200_node' returned '0': PYTHONPATH=/home/pi/ydlidar_ros2_ws/build/jdamr200_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pi/ydlidar_ros2_ws/install/jdamr200_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pi/ydlidar_ros2_ws/build/jdamr200_node/build --no-deps symlink_data --force
