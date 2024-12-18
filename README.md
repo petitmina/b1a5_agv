@@ -5,6 +5,6 @@
 ![SLAM](https://img.shields.io/badge/SLAM-RTAB--Map-blueviolet?logo=mapbox&logoColor=white)
 
 ## QR 코드 와 광각카메라를 활용한 Line 인식으로 목적지까지 주행할 수 있다
-![Uploading KakaoTalk_Video_2024-12-18-21-36-39-1-2-min-2-2-2-2-2-2.gif…]()
+
 
 ## SLAM을 활용하여 자율주행을 할 수 있다 
